@@ -1,0 +1,169 @@
+
+For what firm did I work as an expert witness?
+
+   answer: OCLC
+  context: ons. I took cooking lessons. I wrote software. I did consulting work for OCLC. I was a sort of expert witness for a global legal firm. I gave more tha
+    score: 0.8496453762054443
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: American Academy
+  context: where I worked for the American Academy (http://m1lk.co/0yk9o45w) 5. Even more Rome where I fell in love again, and again, and again (http://m1lk.co/a
+    score: 0.2767772674560547
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+How many books did I organize all of my photographs from the Education?
+
+   answer: five
+  context: phs from the Education (a couple thousand of them), subdivided them into five books, and sent the images off to be professionally bound. The printers,
+    score: 0.6661359071731567
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+How many feet of snow did it snow?
+
+   answer: three feet
+  context: ostly Chicago where I taught XML 101 (http://m1lk.co/2rom5y3m) 3. Mostly Philadelphia where it snowed three feet (http://m1lk.co/x7oou8w) 4. More Rome
+    score: 0.4838893711566925
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+How many times did I go back to Provence?
+
+   answer: twice
+  context: ia, New York, Boston, Rome, Bologna, back to Provence, Paris, Amsterdam (twice), and a number of other places along the way. I took dance lessons. I t
+    score: 0.8291705846786499
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+How many times did I go back to Provence, Paris, Amsterdam?
+
+   answer: twice
+  context: ia, New York, Boston, Rome, Bologna, back to Provence, Paris, Amsterdam (twice), and a number of other places along the way. I took dance lessons. I t
+    score: 0.9692332148551941
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+How often did I fall in love?
+
+   answer: at least once a week
+  context: I drank well, and I fell in love at least once a week. It was a life-changing adventure, and I call the whole thing my Artist's Education. Finally, t
+    score: 0.7241353988647461
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: again, and again, and again
+  context: tp://m1lk.co/0yk9o45w) 5. Even more Rome where I fell in love again, and again, and again (http://m1lk.co/auwb32) It was a life-changing event, and i
+    score: 0.16683417558670044
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+I took what?
+
+   answer: dance lessons
+  context: msterdam (twice), and a number of other places along the way. I took dance lessons. I took painting lessons. I took cooking lessons. I wrote software.
+    score: 0.6514666676521301
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: leaves-of-absense
+  context: xactly what a sabbatical was suppose to be like. I advocate we here in the libraries take more leaves-of-absense. -Eric Lease Morgan January 26, 2022
+    score: 0.10919973254203796
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+What did I call the whole thing?
+
+   answer: Artist's Education
+  context: . It was a life-changing adventure, and I call the whole thing my Artist's Education. Finally, this past week, I organized all of my photographs from
+    score: 0.8306921124458313
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: My Artist's Education
+  context: My Artist's Education As some of may or may not know, starting in the Fall of 2015, I took a 10-month leave of absense. During my time away I went 
+    score: 0.4495851397514343
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: sabbatical
+  context: k.co/auwb32) It was a life-changing event, and it was exactly what a sabbatical was suppose to be like. I advocate we here in the libraries take more
+    score: 0.11968273669481277
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+What did I take dancing lessons?
+
+   answer: painting
+  context: d a number of other places along the way. I took dance lessons. I took painting lessons. I took cooking lessons. I wrote software. I did consulting wo
+    score: 0.36027106642723083
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+What did the printers create along the way?
+
+   answer: a set of flip books
+  context: to be professionally bound. The printers, along the way, created a set of flip books, and I'm sharing them with you, here: 1. Tuscany, Venice, Rome,
+    score: 0.7612049579620361
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+What do I advocate we do in the libraries take more leaves of absense?
+
+
+What kind of expert witness did I work for?
+
+   answer: global legal firm
+  context: are. I did consulting work for OCLC. I was a sort of expert witness for a global legal firm. I gave more than a few professional lectures. I ate well,
+    score: 0.5621232390403748
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+What was supposed to be like on a sabbatical?
+
+   answer: 10-month leave of absense
+  context: of may or may not know, starting in the Fall of 2015, I took a 10-month leave of absense. During my time away I went to Tuscany, Venice, Rome, Provenc
+    score: 0.18179389834403992
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+What was the name of the organization I worked for?
+
+   answer: OCLC
+  context: ons. I took cooking lessons. I wrote software. I did consulting work for OCLC. I was a sort of expert witness for a global legal firm. I gave more tha
+    score: 0.9348407983779907
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: American Academy
+  context: where I worked for the American Academy (http://m1lk.co/0yk9o45w) 5. Even more Rome where I fell in love again, and again, and again (http://m1lk.co/a
+    score: 0.7763062715530396
+     file: /home/emorgan/tmp/artists-education.txt
+
+   answer: Artist's Education
+  context: . It was a life-changing adventure, and I call the whole thing my Artist's Education. Finally, this past week, I organized all of my photographs from
+    score: 0.3913934826850891
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+When did I take a 10-month leave of absense?
+
+   answer: Fall of 2015
+  context: Artist's Education As some of may or may not know, starting in the Fall of 2015, I took a 10-month leave of absense. During my time away I went to T
+    score: 0.8403908610343933
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+Where did I teach XML 101?
+
+   answer: Chicago
+  context: Tuscany, Venice, Rome, and Provence (http://m1lk.co/58k21fo) 2. Mostly Chicago where I taught XML 101 (http://m1lk.co/2rom5y3m) 3. Mostly Philadelphi
+    score: 0.9087039232254028
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+Where did it snow three feet?
+
+   answer: Philadelphia
+  context: ostly Chicago where I taught XML 101 (http://m1lk.co/2rom5y3m) 3. Mostly Philadelphia where it snowed three feet (http://m1lk.co/x7oou8w) 4. More Rome
+    score: 0.9543579816818237
+     file: /home/emorgan/tmp/artists-education.txt
+
+
+Where did I work for the American Academy?
+

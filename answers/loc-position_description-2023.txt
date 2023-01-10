@@ -1,0 +1,1264 @@
+
+Ability to implement and evaluate metadata and linked data standards.
+
+
+Appointment/retention is subject to a favorable evaluation of what?
+
+   answer: an appropriate personnel security/suitability investigation
+  context: ntion is subject to a favorable evaluation of an appropriate personnel security/suitability investigation. For more information, please see:Vetting Pr
+    score: 0.8703238368034363
+     file: sources/loc-position_description-2023.txt
+
+   answer: how well you meet the qualifications above
+  context: ed in the application process. How You Will Be Evaluated You will be evaluated for this job based on how well you meet the qualifications above. The
+    score: 0.3810109496116638
+     file: sources/loc-position_description-2023.txt
+
+   answer: knowledge, skills, and abilities
+  context: ion review, and/or a preliminary telephone interview. The knowledge, skills, and abilities (KSAs) that are marked with a double asterisk (**) in the 
+    score: 0.33747029304504395
+     file: sources/loc-position_description-2023.txt
+
+
+As assigned, represents the Library in the national and international library communities and other organizations on what matters?
+
+   answer: technical matters including linked data usage in libraries
+  context: ibrary communities and other organizations on technical matters including linked data usage in libraries. Assures that Library implementations of link
+    score: 0.5832296013832092
+     file: sources/loc-position_description-2023.txt
+
+
+Assures that Library implementations of linked data standards meet what?
+
+   answer: national and international specifications as well as community established good practices
+  context: of linked data standards meet national and international specifications as well as community established good practices. Assists and advises other ND
+    score: 0.7362401485443115
+     file: sources/loc-position_description-2023.txt
+
+
+Failure to do so will result in your application being excluded from consideration for what announcement?
+
+   answer: SELECTIVE PLACEMENT PROGRAM
+  context: r email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIVE PLACEMENT PROGRAM. The
+    score: 0.6182173490524292
+     file: sources/loc-position_description-2023.txt
+
+   answer: SUBMIT YOUR CERTIFICATION
+  context: sity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SE
+    score: 0.5421911478042603
+     file: sources/loc-position_description-2023.txt
+
+
+How can you apply online?
+
+   answer: through your Hiring Management or MY USAJOBS account
+  context: ur application, you can check your status online through your Hiring Management or MY USAJOBS account. Your complete online application and any requir
+    score: 0.7025346159934998
+     file: sources/loc-position_description-2023.txt
+
+
+How can you check the status of your application?
+
+   answer: online through your Hiring Management or MY USAJOBS account
+  context: d your application, you can check your status online through your Hiring Management or MY USAJOBS account. Your complete online application and any re
+    score: 0.5830203890800476
+     file: sources/loc-position_description-2023.txt
+
+   answer: by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications."
+  context: ation for this position at any time by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications." You will receive final notificatio
+    score: 0.4613495171070099
+     file: sources/loc-position_description-2023.txt
+
+
+How can you check your status after you have submitted your application?
+
+   answer: online through your Hiring Management or MY USAJOBS account
+  context: d your application, you can check your status online through your Hiring Management or MY USAJOBS account. Your complete online application and any re
+    score: 0.6254538297653198
+     file: sources/loc-position_description-2023.txt
+
+   answer: by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications."
+  context: ation for this position at any time by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications." You will receive final notificatio
+    score: 0.3996105194091797
+     file: sources/loc-position_description-2023.txt
+
+
+How can you check your status online?
+
+   answer: through your Hiring Management or MY USAJOBS account
+  context: ur application, you can check your status online through your Hiring Management or MY USAJOBS account. Your complete online application and any requir
+    score: 0.7089592218399048
+     file: sources/loc-position_description-2023.txt
+
+
+How does an expert know computer languages and techniques?
+
+   answer: for realizing program needs
+  context: Applies expert knowledge of computer languages and techniques for realizing program needs. Applies expertise in use of extensible Markup language (XML
+    score: 0.632465124130249
+     file: sources/loc-position_description-2023.txt
+
+
+How does eligibility for federal benefits vary?
+
+   answer: depends on the type of position you hold
+  context: ng-at-the-library/benefits/) Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or i
+    score: 0.4592280685901642
+     file: sources/loc-position_description-2023.txt
+
+
+How does the Librarian serve as a liaison between Library Services and other Library divisions?
+
+   answer: to provide expert technical advice, assistance, and training (as needed) on new linked data technologies and standards
+  context: ions and o!ices to provide expert technical advice, assistance, and training (as needed) on new linked data technologies and standards. Participates i
+    score: 0.3507983386516571
+     file: sources/loc-position_description-2023.txt
+
+
+How do you apply for a job at the Library?
+
+   answer: submit a complete application package
+  context: ments are strongly encouraged to apply. Applicants must submit a complete application package that is received by the closing date of this announceme
+    score: 0.3290848731994629
+     file: sources/loc-position_description-2023.txt
+
+
+How do you apply for a position?
+
+   answer: submit an appropriate certificate of eligibility
+  context: procedures and must submit an appropriate certificate of eligibility when applying for this position. The proof or disability/certification may be iss
+    score: 0.4765043258666992
+     file: sources/loc-position_description-2023.txt
+
+   answer: based on how well you meet the qualifications above
+  context: ed in the application process. How You Will Be Evaluated You will be evaluated for this job based on how well you meet the qualifications above. The
+    score: 0.3830641508102417
+     file: sources/loc-position_description-2023.txt
+
+   answer: submit a complete application package
+  context: ments are strongly encouraged to apply. Applicants must submit a complete application package that is received by the closing date of this announceme
+    score: 0.37014660239219666
+     file: sources/loc-position_description-2023.txt
+
+   answer: online
+  context: instructions under the How to Apply tab to ensure you are considered for the position. You are required to apply online for this announcement. We are
+    score: 0.34966546297073364
+     file: sources/loc-position_description-2023.txt
+
+   answer: by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications."
+  context: ation for this position at any time by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications." You will receive final notificatio
+    score: 0.30720487236976624
+     file: sources/loc-position_description-2023.txt
+
+
+How do you create a resume on USAJOBS?
+
+
+How do you customize your USAJOBS resume?
+
+
+How do you review the job announcement?
+
+   answer: based on how well you meet the qualifications above
+  context: ed in the application process. How You Will Be Evaluated You will be evaluated for this job based on how well you meet the qualifications above. The
+    score: 0.45545852184295654
+     file: sources/loc-position_description-2023.txt
+
+   answer: via email
+  context: and clicking on "My Applications." You will receive final notification via email when the vacancy has been filled. Phone 202-707-5620 (tel:202-707-56
+    score: 0.30149614810943604
+     file: sources/loc-position_description-2023.txt
+
+
+How is the Federal hiring process set up?
+
+   answer: to be fair and transparent
+  context: urity Fair & Transparent The Federal hiring process is set up to be fair and transparent. Please read the following guidance. tel:202-707-5620 mailto
+    score: 0.5937057733535767
+     file: sources/loc-position_description-2023.txt
+
+   answer: based on how well you meet the qualifications above
+  context: ed in the application process. How You Will Be Evaluated You will be evaluated for this job based on how well you meet the qualifications above. The
+    score: 0.3343556821346283
+     file: sources/loc-position_description-2023.txt
+
+
+How long before the closing date do you need to contact the POINT OF CONTACT for this ANNOUNCEMENT?
+
+   answer: BEFORE the closing date
+  context: his information, please contact the person on this announcement BEFORE the closing date. Step 6: Click on "Finish" a#er you have completed your appli
+    score: 0.34308576583862305
+     file: sources/loc-position_description-2023.txt
+
+
+How long does a permanent appointment to the library of congress take?
+
+   answer: one-year probationary period
+  context: ointments to the Library of Congress require completion of a one-year probationary period. Probationary periods served at other Federal agencies do no
+    score: 0.6477711796760559
+     file: sources/loc-position_description-2023.txt
+
+
+How long must a letter be dated?
+
+   answer: within three years
+  context: rify that the applicant has a severe disability and must be dated within three years of the date of the application.  The program does not accept cert
+    score: 0.6362661123275757
+     file: sources/loc-position_description-2023.txt
+
+   answer: within three years
+  context: rify that the applicant has a severe disability and must be dated within three years of the date of the application.  Certification from health care p
+    score: 0.6125981211662292
+     file: sources/loc-position_description-2023.txt
+
+
+How many options do hiring managers have to electronically attach to your online application?
+
+   answer: three
+  context: all questions honestly and thoroughly. Step 5: Hiring Management o!ers three options that will electronically attach your documentation to your onli
+    score: 0.7281481027603149
+     file: sources/loc-position_description-2023.txt
+
+
+How many questions will you be taken directly to the vacancy application questions?
+
+
+How many SF-50s are there in the same file on your computer?
+
+
+How many SF-50 transcripts are there?
+
+
+How many undergraduate transcripts do you need?
+
+
+How many undergraduate transcripts from di!erent schools are there?
+
+
+How many vacancies are available in Washington DC?
+
+
+How will the decision on granting reasonable accommodation be determined?
+
+   answer: on a case-by-case basis
+  context: ecision on granting reasonable accommodation will be determined on a case-by-case basis. Applicants with disabilities may be considered under special
+    score: 0.6019884943962097
+     file: sources/loc-position_description-2023.txt
+
+
+How will you be notified when the vacancy has been filled?
+
+   answer: via email
+  context: and clicking on "My Applications." You will receive final notification via email when the vacancy has been filled. Phone 202-707-5620 (tel:202-707-56
+    score: 0.7695950269699097
+     file: sources/loc-position_description-2023.txt
+
+
+How will you be redirected to the Hiring Management website to complete the application process?
+
+   answer: Step 3
+  context: S resume to ensure that it supports your responses to these questions. Step 3: Click on the "APPLY ONLINE" button to the right of this announcement. 
+    score: 0.5758110284805298
+     file: sources/loc-position_description-2023.txt
+
+
+Participates in planning needed to implement what?
+
+   answer: strategies and standards
+  context: ta technologies. Participates in planning needed to implement strategies and standards for complex projects involving the creation and use of bibliog
+    score: 0.7790096998214722
+     file: sources/loc-position_description-2023.txt
+
+
+Participates in the national and international standards development processes?
+
+
+The program does not accept certification from what?
+
+   answer: health care providers
+  context: three years of the date of the application.  Certification from health care providers are not accepted. For more information contact the Library's O!
+    score: 0.9881167411804199
+     file: sources/loc-position_description-2023.txt
+
+   answer: health care providers
+  context: the application.  The program does not accept certification from health care providers. For more information contact the Library's O!ice of Equal Empl
+    score: 0.9584740400314331
+     file: sources/loc-position_description-2023.txt
+
+
+What are locality pay adjustments for?
+
+   answer: Washington, D.C., Metropolitan area
+  context: e indicated reflects the locality pay adjustments for the Washington, D.C., Metropolitan area. This is a non-supervisory, bargaining unit position. 
+    score: 0.5653959512710571
+     file: sources/loc-position_description-2023.txt
+
+
+What are the KSAs marked with?
+
+   answer: double asterisk
+  context: The knowledge, skills, and abilities (KSAs) that are marked with a double asterisk (**) in the vacancy announcement and the applicant questionnaire a
+    score: 0.5519938468933105
+     file: sources/loc-position_description-2023.txt
+
+
+What are the most critical KSAs for a position?
+
+   answer: knowledge, skills, and abilities
+  context: ion review, and/or a preliminary telephone interview. The knowledge, skills, and abilities (KSAs) that are marked with a double asterisk (**) in the 
+    score: 0.8171327710151672
+     file: sources/loc-position_description-2023.txt
+
+
+What are the various assessment tools listed above designed to verify or explore applicants' experience, knowledge, and training related to the job?
+
+
+What are you looking for in a security number?
+
+
+What are you required to do in order to be considered?
+
+   answer: submit an appropriate certificate of eligibility
+  context: procedures and must submit an appropriate certificate of eligibility when applying for this position. The proof or disability/certification may be iss
+    score: 0.5449113845825195
+     file: sources/loc-position_description-2023.txt
+
+   answer: demonstrate fully acceptable experience
+  context: . To be considered for final selection, applicants must demonstrate fully acceptable experience in these designated KSAs in the narrative/application 
+    score: 0.5322278738021851
+     file: sources/loc-position_description-2023.txt
+
+   answer: answer questions related to your eligibility for Federal employment
+  context: n Hiring Management, you will be asked to answer questions related to your eligibility for Federal employment. You will be able to update this informa
+    score: 0.37765562534332275
+     file: sources/loc-position_description-2023.txt
+
+   answer: submit a complete application package
+  context: ments are strongly encouraged to apply. Applicants must submit a complete application package that is received by the closing date of this announceme
+    score: 0.35681086778640747
+     file: sources/loc-position_description-2023.txt
+
+   answer: complete the entire application process
+  context: unable to accept mailed or emailed documents. You must complete the entire application process, including submission of all documents BEFORE this anno
+    score: 0.3428608179092407
+     file: sources/loc-position_description-2023.txt
+
+
+What branch of government does the Library of Congress belong to?
+
+   answer: Federal Government
+  context: ng illegal drugs, including marijuana. The Library is part of the Federal Government and abides by federal law, so regardless of individual state or D
+    score: 0.7248975038528442
+     file: sources/loc-position_description-2023.txt
+
+   answer: Legislative Branch
+  context: s is the national library of the United States and is part of the Legislative Branch of the Federal government. As such, all positions are in the exce
+    score: 0.6997451782226562
+     file: sources/loc-position_description-2023.txt
+
+   answer: equal opportunity employer
+  context: Library of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility requirements are strongly 
+    score: 0.3837011456489563
+     file: sources/loc-position_description-2023.txt
+
+
+What do applicants need to demonstrate to be considered for final selection?
+
+   answer: fully acceptable experience
+  context: e considered for final selection, applicants must demonstrate fully acceptable experience in these designated KSAs in the narrative/application review
+    score: 0.7492861747741699
+     file: sources/loc-position_description-2023.txt
+
+   answer: the type of veterans' preference
+  context: veteran?  Please indicate the type of veterans' preference you are claiming in your application materials and/or applicant profile and provide the app
+    score: 0.3357335031032562
+     file: sources/loc-position_description-2023.txt
+
+
+What do applicants need to provide to validate their claim?
+
+   answer: supporting documentation
+  context: materials and/or applicant profile and provide the appropriate supporting documentation to validate your claim.  Those applying for 5-point preference
+    score: 0.7308052778244019
+     file: sources/loc-position_description-2023.txt
+
+   answer: fully acceptable experience
+  context: e considered for final selection, applicants must demonstrate fully acceptable experience in these designated KSAs in the narrative/application review
+    score: 0.5380038022994995
+     file: sources/loc-position_description-2023.txt
+
+   answer: The letter must verify that the applicant has a severe disability
+  context: or the Department of Veterans A!airs. The letter must verify that the applicant has a severe disability and must be dated within three years of the da
+    score: 0.3607475161552429
+     file: sources/loc-position_description-2023.txt
+
+   answer: a complete application package
+  context: s are strongly encouraged to apply. Applicants must submit a complete application package that is received by the closing date of this announcement. 
+    score: 0.3359483480453491
+     file: sources/loc-position_description-2023.txt
+
+   answer: an appropriate certificate of eligibility
+  context: procedures and must submit an appropriate certificate of eligibility when applying for this position. The proof or disability/certification may be iss
+    score: 0.335146963596344
+     file: sources/loc-position_description-2023.txt
+
+
+What does ADA do if you need a reasonable accommodation for any part of the application and hiring process?
+
+   answer: email ADA@loc.gov
+  context: odation for any part of the application and hiring process, please email ADA@loc.gov. The decision on granting reasonable accommodation will be determ
+    score: 0.6322814226150513
+     file: sources/loc-position_description-2023.txt
+
+
+What does EEO stand for?
+
+   answer: Equal Employment Opportunity
+  context: enter Learn more about this agency (#agency-modal-trigger) Equal Employment Opportunity (EEO) Policy (/Help/equal-employment-opportunity/) Reasonab
+    score: 0.8771359920501709
+     file: sources/loc-position_description-2023.txt
+
+   answer: Diversity Programs
+  context: accepted. For more information contact the Library's O!ice of EEO/Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERT
+    score: 0.4314761757850647
+     file: sources/loc-position_description-2023.txt
+
+
+What does failure to submit your CERTIFICATION CAUSE?
+
+   answer: YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIVE PLACEMENT PROGRAM
+  context: r email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIVE PLACEMENT PROGRAM. The
+    score: 0.6350783705711365
+     file: sources/loc-position_description-2023.txt
+
+   answer: YOUR APPLICATION TO NOT BE CONSIDERED
+  context: loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIVE PLACEMENT PROGRAM. How to Apply Pl
+    score: 0.49714428186416626
+     file: sources/loc-position_description-2023.txt
+
+
+What does NDMSO stand for?
+
+   answer: MARC (Machine Readable Cataloging) Standards O!ice
+  context: hnical Analyst for metadata applications and is located in the Network Development and MARC (Machine Readable Cataloging) Standards O!ice (NDMSO). The
+    score: 0.8346726298332214
+     file: sources/loc-position_description-2023.txt
+
+
+What does OCIO stand for?
+
+   answer: O!ice of the Chief Information O!icer
+  context: losely with NDMSO sta!, other Library Services sta!, and O!ice of the Chief Information O!icer (OCIO) sta! on components of a working environment that
+    score: 0.8551915287971497
+     file: sources/loc-position_description-2023.txt
+
+
+What does the ADA provide to applicants with disabilities?
+
+   answer: reasonable accommodation
+  context: tions/vetting-personnel-at-the-library/) This agency provides reasonable accommodation to applicants with disabilities. If you need a reasonable acco
+    score: 0.9215542078018188
+     file: sources/loc-position_description-2023.txt
+
+
+What does the Library of Congress employees are prohibited from using?
+
+   answer: illegal drugs
+  context: f Employment Library of Congress employees are prohibited from using illegal drugs, including marijuana. The Library is part of the Federal Government
+    score: 0.5301371812820435
+     file: sources/loc-position_description-2023.txt
+
+
+What does the Library of Congress evaluate applicants for?
+
+   answer: an applicant questionnaire and a structured interview
+  context: Library of Congress evaluates applicants through an applicant questionnaire and a structured interview. Applicants may also be screened for some jobs 
+    score: 0.5650447607040405
+     file: sources/loc-position_description-2023.txt
+
+
+What does the Library of Congress evaluate applicants through?
+
+   answer: an applicant questionnaire and a structured interview
+  context: Library of Congress evaluates applicants through an applicant questionnaire and a structured interview. Applicants may also be screened for some jobs 
+    score: 0.7956181764602661
+     file: sources/loc-position_description-2023.txt
+
+
+What does the Library of Congress participate in?
+
+   answer: equal opportunity employer
+  context: Library of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility requirements are strongly 
+    score: 0.7363661527633667
+     file: sources/loc-position_description-2023.txt
+
+   answer: Legislative Branch of the Federal government
+  context: onal library of the United States and is part of the Legislative Branch of the Federal government. As such, all positions are in the excepted service.
+    score: 0.5847615003585815
+     file: sources/loc-position_description-2023.txt
+
+   answer: repayment of federally insured student loans
+  context: s within the Library of Congress participates in the repayment of federally insured student loans. Therefore, determination to repay a federally insur
+    score: 0.3988083004951477
+     file: sources/loc-position_description-2023.txt
+
+
+What does the Library of Congress require completion of?
+
+   answer: one-year probationary period
+  context: ointments to the Library of Congress require completion of a one-year probationary period. Probationary periods served at other Federal agencies do no
+    score: 0.34479421377182007
+     file: sources/loc-position_description-2023.txt
+
+   answer: application package
+  context: strongly encouraged to apply. Applicants must submit a complete application package that is received by the closing date of this announcement. Appo
+    score: 0.3185001015663147
+     file: sources/loc-position_description-2023.txt
+
+
+What does the Library's policy include when setting rates of pay?
+
+   answer: locality pay adjustments
+  context: s position is 429569. The salary range indicated reflects the locality pay adjustments for the Washington, D.C., Metropolitan area. This is a non-su
+    score: 0.35970205068588257
+     file: sources/loc-position_description-2023.txt
+
+
+What does the linked data environment and the current environment specify and make recommendations for?
+
+   answer: the advantages and disadvantages
+  context: d data environment and the current environment, specifying the advantages and disadvantages and making recommendations. Coordinates complex research 
+    score: 0.7813643217086792
+     file: sources/loc-position_description-2023.txt
+
+
+What does the position description number for this position mean?
+
+   answer: 429569
+  context: rvation Services. The position description number for this position is 429569. The salary range indicated reflects the locality pay adjustments for 
+    score: 0.8375530242919922
+     file: sources/loc-position_description-2023.txt
+
+   answer: excepted service
+  context: ranch of the Federal government. As such, all positions are in the excepted service. The Library reserves the right to fill a lesser or greater numbe
+    score: 0.30191275477409363
+     file: sources/loc-position_description-2023.txt
+
+
+What does the U.S. government provide its employees with?
+
+   answer: a comprehensive benefits package
+  context: provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are 
+    score: 0.6994799375534058
+     file: sources/loc-position_description-2023.txt
+
+
+What do Librarians provide expert technical advice, assistance and training on?
+
+   answer: new linked data technologies and standards
+  context: nical advice, assistance, and training (as needed) on new linked data technologies and standards. Participates in the national and international stand
+    score: 0.7779361009597778
+     file: sources/loc-position_description-2023.txt
+
+
+What do probationary periods served at other Federal agencies not count toward?
+
+   answer: this requirement
+  context: onary periods served at other Federal agencies do not count toward this requirement. The Library of Congress may o!er repayment for all or part of fe
+    score: 0.7180902361869812
+     file: sources/loc-position_description-2023.txt
+
+
+What do these projects relate to?
+
+   answer: semantic technologies
+  context: with development of related standards. These projects relate to semantic technologies. The incumbent will work closely with NDMSO sta!, other Library
+    score: 0.9823983907699585
+     file: sources/loc-position_description-2023.txt
+
+   answer: Network Development and Marc Standards O!ice, Acquisitions and Bibliographic Access Directorate, Discovery and Preservation Services
+  context: d in the Network Development and Marc Standards O!ice, Acquisitions and Bibliographic Access Directorate, Discovery and Preservation Services. The po
+    score: 0.6179393529891968
+     file: sources/loc-position_description-2023.txt
+
+   answer: linked data
+  context: tablished good practices. Assists and advises other NDMSO sta! on matters related to linked data, e.g., use and development of the Library linked data
+    score: 0.3229218125343323
+     file: sources/loc-position_description-2023.txt
+
+   answer: Network Development and MARC (Machine Readable Cataloging) Standards O!ice
+  context: hnical Analyst for metadata applications and is located in the Network Development and MARC (Machine Readable Cataloging) Standards O!ice (NDMSO). The
+    score: 0.32093721628189087
+     file: sources/loc-position_description-2023.txt
+
+
+What information will not be provided to the Library of Congress?
+
+
+What is a part of planning needed to implement strategies and standards for complex projects?
+
+
+What is a requirement for non-citizens to be hired at the Library of Congress?
+
+   answer: other legal requirements are met
+  context: itizens. However, non-citizens may be hired, provided that other legal requirements are met and the Library determines there https://www.usajobs.gov/
+    score: 0.3730340003967285
+     file: sources/loc-position_description-2023.txt
+
+
+What is it your responsibility to ensure that all documents are received on time and that the materials are readable?
+
+
+What is MARC?
+
+   answer: Machine Readable Cataloging) Standards O!ice
+  context: hnical Analyst for metadata applications and is located in the Network Development and MARC (Machine Readable Cataloging) Standards O!ice (NDMSO). The
+    score: 0.7727545499801636
+     file: sources/loc-position_description-2023.txt
+
+
+What is marijuana considered to be?
+
+   answer: criminal activity
+  context: or District of Columbia laws, marijuana use is illegal, considered criminal activity, and can a!ect your employment at the Library. In addition, past 
+    score: 0.6906381845474243
+     file: sources/loc-position_description-2023.txt
+
+
+What is not accepted?
+
+   answer: certification from health care providers
+  context: date of the application.  The program does not accept certification from health care providers. For more information contact the Library's O!ice of E
+    score: 0.7168093919754028
+     file: sources/loc-position_description-2023.txt
+
+   answer: Certification from health care providers
+  context: ed within three years of the date of the application.  Certification from health care providers are not accepted. For more information contact the Lib
+    score: 0.630776047706604
+     file: sources/loc-position_description-2023.txt
+
+   answer: required supporting documentation
+  context: required documentation listed on the back of the form.  If required supporting documentation is not attached, Veterans' Preference will not be conside
+    score: 0.38220489025115967
+     file: sources/loc-position_description-2023.txt
+
+
+What is one of the duties of the position without more than normal supervision?
+
+   answer: Ability to implement and evaluate metadata and linked data standards
+  context: n without more than normal supervision. Ability to implement and evaluate metadata and linked data standards.** Ability to perform research and anal
+    score: 0.30265164375305176
+     file: sources/loc-position_description-2023.txt
+
+
+What is prohibited from using at the Library?
+
+
+What is SPARQL?
+
+   answer: RDF Query Language
+  context: uery), Extensible Stylesheet Language transformations (XSLT), the RDF Query Language SPARQL, and management of triple stores.  Quickly develops new da
+    score: 0.7843033671379089
+     file: sources/loc-position_description-2023.txt
+
+
+What is the acronym for O!ice of the Chief Information O!icer?
+
+   answer: OCIO
+  context: other Library Services sta!, and O!ice of the Chief Information O!icer (OCIO) sta! on components of a working environment that is based on linking da
+    score: 0.9672006368637085
+     file: sources/loc-position_description-2023.txt
+
+
+What is the address LIBRARY OF CONGRESS?
+
+   answer: 101 Independence Ave. SE
+  context: loc.gov (mailto:JobHelp@loc.gov) Address LIBRARY OF CONGRESS 101 Independence Ave. SE Washington, District of Columbia 20540 United States Agency c
+    score: 0.6557618379592896
+     file: sources/loc-position_description-2023.txt
+
+
+What is the deadline for technical issues?
+
+   answer: 4:30pm
+  context: For all technical issues please contact jobhelp@loc.gov , no later than 4:30pm EST of the Closing Date. REQUESTS FOR EXTENSIONS WILL NOT BE GRANTED. 
+    score: 0.46786946058273315
+     file: sources/loc-position_description-2023.txt
+
+
+What is the Federal hiring process set up to be?
+
+   answer: fair and transparent
+  context: ty Fair & Transparent The Federal hiring process is set up to be fair and transparent. Please read the following guidance. tel:202-707-5620 mailto:Jo
+    score: 0.7287079691886902
+     file: sources/loc-position_description-2023.txt
+
+
+What is the first time you will be asked to answer questions related to your eligibility for Federal employment?
+
+   answer: Hiring Management
+  context: to complete the application process. If this is your first time in Hiring Management, you will be asked to answer questions related to your eligibilit
+    score: 0.3057304620742798
+     file: sources/loc-position_description-2023.txt
+
+
+What is the Library of Congress an equal opportunity employer?
+
+
+What is the Library of Congress Merit Selection Plan, Section 8.5?
+
+   answer: Merit Selection Plan
+  context: e the Library of Congress Merit Selection Plan, Section 8.5, at: Merit Selection Plan You may preview questions for this vacancy. https://www.usajob
+    score: 0.42731499671936035
+     file: sources/loc-position_description-2023.txt
+
+
+What is the limit of employment at most U.S. Government agencies?
+
+   answer: U.S. citizens
+  context: overnment agencies, including the Library of Congress, is limited to U.S. citizens. However, non-citizens may be hired, provided that other legal requ
+    score: 0.4887292683124542
+     file: sources/loc-position_description-2023.txt
+
+
+What is the name of the agency that is responsible for hiring federal employees?
+
+   answer: the Library of Congress
+  context: By law, employment at most U.S. Government agencies, including the Library of Congress, is limited to U.S. citizens. However, non-citizens may be hir
+    score: 0.3967519998550415
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: Library of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility requirements are strongly 
+    score: 0.3894060254096985
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: Library of Congress is the national library of the United States and is part of the Legislative Branch of the Federal government. As such, all positio
+    score: 0.3525182604789734
+     file: sources/loc-position_description-2023.txt
+
+
+What is the name of the button to the right of this announcement?
+
+   answer: APPLY ONLINE
+  context: t supports your responses to these questions. Step 3: Click on the "APPLY ONLINE" button to the right of this announcement. Follow USAJOBS' instructi
+    score: 0.6446173191070557
+     file: sources/loc-position_description-2023.txt
+
+
+What is the name of the initiative that supports library linked data?
+
+   answer: BIBFRAME
+  context: initiative, BIBFRAME. Prepares and presents papers at meetings and conferences. Requirements Conditions of Employment Library of Congress employees a
+    score: 0.6840101480484009
+     file: sources/loc-position_description-2023.txt
+
+   answer: NDMSO
+  context: well as community established good practices. Assists and advises other NDMSO sta! on matters related to linked data, e.g., use and development of th
+    score: 0.31070083379745483
+     file: sources/loc-position_description-2023.txt
+
+
+What is the name of the person on this announcement?
+
+
+What is the name of the website that provides information about federal benefits?
+
+   answer: Hiring Management
+  context: your account and submit your resume. You will be redirected to the Hiring Management website to complete the application process. If this is your firs
+    score: 0.3758411109447479
+     file: sources/loc-position_description-2023.txt
+
+
+What is the national library of the US?
+
+   answer: Library of Congress
+  context: Library of Congress is the national library of the United States and is part of the Legislative Branch of the Federal government. As such, all positio
+    score: 0.9646300077438354
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: y law, employment at most U.S. Government agencies, including the Library of Congress, is limited to U.S. citizens. However, non-citizens may be hired
+    score: 0.5438159704208374
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: Library of Congress evaluates applicants through an applicant questionnaire and a structured interview. Applicants may also be screened for some jobs 
+    score: 0.3872414231300354
+     file: sources/loc-position_description-2023.txt
+
+
+What is the probationary period required for permanent appointments to the Library?
+
+   answer: one-year
+  context: manent appointments to the Library of Congress require completion of a one-year probationary period. Probationary periods served at other Federal agen
+    score: 0.9137521386146545
+     file: sources/loc-position_description-2023.txt
+
+
+What is the role of a linked data engineer?
+
+   answer: Technical Analyst
+  context: osition. Duties The position serves as a Linked Data Applications Technical Analyst for metadata applications and is located in the Network Developme
+    score: 0.593081533908844
+     file: sources/loc-position_description-2023.txt
+
+
+What is the role of a linked data technician?
+
+   answer: Linked Data Applications Technical Analyst
+  context: le for the position. Duties The position serves as a Linked Data Applications Technical Analyst for metadata applications and is located in the Netwo
+    score: 0.5242204666137695
+     file: sources/loc-position_description-2023.txt
+
+
+What is the term for a federally insured student loan?
+
+
+What is the title of the Linked Data Applications Technical Analyst?
+
+   answer: Librarian
+  context: Librarian (Linked Data Applications Technical Analyst) LEGISLATIVE BRANCH Library of Congress Summary This position is located in the Network Devel
+    score: 0.7829883694648743
+     file: sources/loc-position_description-2023.txt
+
+
+What is the title of the Linked Data Applications Technical Analyst position at the Library of Congress?
+
+   answer: Librarian
+  context: Librarian (Linked Data Applications Technical Analyst) LEGISLATIVE BRANCH Library of Congress Summary This position is located in the Network Devel
+    score: 0.7513705492019653
+     file: sources/loc-position_description-2023.txt
+
+
+What is the type of position you hold?
+
+   answer: Linked Data Applications Technical Analyst
+  context: le for the position. Duties The position serves as a Linked Data Applications Technical Analyst for metadata applications and is located in the Netwo
+    score: 0.6634414196014404
+     file: sources/loc-position_description-2023.txt
+
+   answer: Librarian
+  context: ex Service Excepted Promotion potential 14 Job family (Series) 1410 Librarian (/Search/Results?j=1410) Supervisory status No Security clearance O
+    score: 0.589814305305481
+     file: sources/loc-position_description-2023.txt
+
+   answer: Permanent
+  context: r Yes—as determined by the agency policy. Relocation expenses reimbursed No Appointment type Permanent Position Work schedule Full-time Flexitime,
+    score: 0.5761908888816833
+     file: sources/loc-position_description-2023.txt
+
+   answer: excepted service
+  context: ranch of the Federal government. As such, all positions are in the excepted service. The Library reserves the right to fill a lesser or greater numbe
+    score: 0.46840599179267883
+     file: sources/loc-position_description-2023.txt
+
+
+What is this non-supervisory, bargaining unit position?
+
+   answer: Librarian
+  context: Librarian (Linked Data Applications Technical Analyst) LEGISLATIVE BRANCH Library of Congress Summary This position is located in the Network Devel
+    score: 0.4316123425960541
+     file: sources/loc-position_description-2023.txt
+
+
+What is XQuery?
+
+   answer: XML Query
+  context: se of extensible Markup language (XML) and RDF for the e!ective use of XML Query (XQuery), Extensible Stylesheet Language transformations (XSLT), the 
+    score: 0.9720183610916138
+     file: sources/loc-position_description-2023.txt
+
+
+What is your responsibility?
+
+   answer: to ensure that all documents are received on time and that the materials are readable
+  context: ement. It is your responsibility to ensure that all documents are received on time and that the materials are readable. Failure to do so will result i
+    score: 0.6463471055030823
+     file: sources/loc-position_description-2023.txt
+
+
+What may be issued by the State Vocational Rehabilitation O!ice or Disability Services?
+
+   answer: proof or disability/certification
+  context: ficate of eligibility when applying for this position. The proof or disability/certification may be issued by the State Vocational Rehabilitation O!ic
+    score: 0.6941390037536621
+     file: sources/loc-position_description-2023.txt
+
+   answer: proof or disability/certification
+  context: ficate of eligibility when applying for this position. The proof or disability/certification may be issued by the State Vocational Rehabilitation O!ic
+    score: 0.48864057660102844
+     file: sources/loc-position_description-2023.txt
+
+
+What may deem you ineligible for employment?
+
+   answer: past or current drug use and activities
+  context: can a!ect your employment at the Library. In addition, past or current drug use and activities (e.g., selling or distributing) may deem you ineligibl
+    score: 0.63042151927948
+     file: sources/loc-position_description-2023.txt
+
+   answer: Applicants with disabilities
+  context: ent Notification of Personnel Action (SF-50 or equivalent). Applicants with disabilities may be considered under special hiring procedures and must s
+    score: 0.37767523527145386
+     file: sources/loc-position_description-2023.txt
+
+   answer: FAILURE TO SUBMIT YOUR CERTIFICATION
+  context: Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER T
+    score: 0.3411909341812134
+     file: sources/loc-position_description-2023.txt
+
+   answer: If required supporting documentation is not attached
+  context: d documentation listed on the back of the form.  If required supporting documentation is not attached, Veterans' Preference will not be considered in 
+    score: 0.3170933425426483
+     file: sources/loc-position_description-2023.txt
+
+
+What must an applicant submit when applying for a job?
+
+   answer: an appropriate certificate of eligibility
+  context: procedures and must submit an appropriate certificate of eligibility when applying for this position. The proof or disability/certification may be iss
+    score: 0.7294569611549377
+     file: sources/loc-position_description-2023.txt
+
+   answer: all documents
+  context: ust complete the entire application process, including submission of all documents BEFORE this announcement closes. To do so, complete the following s
+    score: 0.5628407001495361
+     file: sources/loc-position_description-2023.txt
+
+   answer: fully acceptable experience
+  context: e considered for final selection, applicants must demonstrate fully acceptable experience in these designated KSAs in the narrative/application review
+    score: 0.549623966217041
+     file: sources/loc-position_description-2023.txt
+
+   answer: CERTIFICATION
+  context: rograms at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIV
+    score: 0.4744275212287903
+     file: sources/loc-position_description-2023.txt
+
+   answer: resume
+  context: nt. Follow USAJOBS' instructions to access your account and submit your resume. You will be redirected to the Hiring Management website to complete th
+    score: 0.43455347418785095
+     file: sources/loc-position_description-2023.txt
+
+
+What must applicants have had progressively responsible experience and training?
+
+
+What must applicants submit by the closing date of this announcement?
+
+   answer: all documents
+  context: ust complete the entire application process, including submission of all documents BEFORE this announcement closes. To do so, complete the following s
+    score: 0.7264222502708435
+     file: sources/loc-position_description-2023.txt
+
+   answer: fully acceptable experience
+  context: e considered for final selection, applicants must demonstrate fully acceptable experience in these designated KSAs in the narrative/application review
+    score: 0.31950581073760986
+     file: sources/loc-position_description-2023.txt
+
+
+What must applicants submit to get a 5-point preference?
+
+   answer: Member Copy 4 of your DD 214
+  context: ur claim.  Those applying for 5-point preference must submit Member Copy 4 of your DD 214.  Those applying for 10-point preference must fill out an SF
+    score: 0.9363313913345337
+     file: sources/loc-position_description-2023.txt
+
+
+What must applicants with disabilities submit when applying for a job?
+
+   answer: an appropriate certificate of eligibility
+  context: idered under special hiring procedures and must submit an appropriate certificate of eligibility when applying for this position. The proof or disabil
+    score: 0.7181061506271362
+     file: sources/loc-position_description-2023.txt
+
+   answer: an appropriate certificate of eligibility
+  context: procedures and must submit an appropriate certificate of eligibility when applying for this position. The proof or disability/certification may be iss
+    score: 0.6942203044891357
+     file: sources/loc-position_description-2023.txt
+
+   answer: a complete application package
+  context: s are strongly encouraged to apply. Applicants must submit a complete application package that is received by the closing date of this announcement. 
+    score: 0.4106602072715759
+     file: sources/loc-position_description-2023.txt
+
+   answer: The letter must verify that the applicant has a severe disability and must be dated within three years of the date of the application.  The program does not accept certification from health care providers. For more information contact the Library's O!ice of Equal Employment Opportunity and Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION
+  context: The letter must verify that the applicant has a severe disability and must be dated within three years of the date of the application.  The program does not accept certification from health care providers. For more information contact the Library's O!ice of Equal Employment Opportunity and Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION
+    score: 0.31661099195480347
+     file: sources/loc-position_description-2023.txt
+
+
+What must current or former federal employees submit?
+
+   answer: Notification of Personnel Action
+  context: or former federal employees must submit their most recent Notification of Personnel Action (SF-50 or equivalent). Applicants with disabilities may b
+    score: 0.5786558985710144
+     file: sources/loc-position_description-2023.txt
+
+
+What must the letter verify?
+
+   answer: that the applicant has a severe disability
+  context: Department of Veterans A!airs. The letter must verify that the applicant has a severe disability and must be dated within three years of the date of t
+    score: 0.6399348974227905
+     file: sources/loc-position_description-2023.txt
+
+   answer: that the applicant has a severe disability
+  context: Department of Veterans A!airs. The letter must verify that the applicant has a severe disability and must be dated within three years of the date of t
+    score: 0.5774887204170227
+     file: sources/loc-position_description-2023.txt
+
+
+What must the letter verify that the applicant has a severe disability and must be dated within three years of the date of the application?
+
+
+What should you do if you have multiple documents?
+
+
+What type of communication is not required for this job?
+
+
+What type of documentation is not attached to the application form?
+
+   answer: required supporting documentation
+  context: required documentation listed on the back of the form.  If required supporting documentation is not attached, Veterans' Preference will not be conside
+    score: 0.6800585985183716
+     file: sources/loc-position_description-2023.txt
+
+
+What type of job is open to the public?
+
+   answer: Librarian
+  context: ex Service Excepted Promotion potential 14 Job family (Series) 1410 Librarian (/Search/Results?j=1410) Supervisory status No Security clearance O
+    score: 0.32760849595069885
+     file: sources/loc-position_description-2023.txt
+
+
+What type of preference do veterans have?
+
+
+What will attach your documentation to your online application once you finish answering the questions in the job announcement?
+
+   answer: Step 5: Hiring Management o!ers three options
+  context: ions. Answer all questions honestly and thoroughly. Step 5: Hiring Management o!ers three options that will electronically attach your documentation 
+    score: 0.4944595992565155
+     file: sources/loc-position_description-2023.txt
+
+
+When must your complete online application and any required supplemental documentation be received?
+
+   answer: BEFORE this announcement closes
+  context: application process, including submission of all documents BEFORE this announcement closes. To do so, complete the following steps. Step 1: If you d
+    score: 0.9256954193115234
+     file: sources/loc-position_description-2023.txt
+
+   answer: 11:59 p.m. Eastern Standard Time
+  context: be received by 11:59 p.m. Eastern Standard Time (EST) on the closing date of the announcement. It is your responsibility to ensure that all documents 
+    score: 0.4390393793582916
+     file: sources/loc-position_description-2023.txt
+
+   answer: once you finish answering the questions in the job announcement
+  context: ur documentation to your online application once you finish answering the questions in the job announcement. (1) You may select a document that you h
+    score: 0.38788533210754395
+     file: sources/loc-position_description-2023.txt
+
+   answer: Step 3
+  context: S resume to ensure that it supports your responses to these questions. Step 3: Click on the "APPLY ONLINE" button to the right of this announcement. 
+    score: 0.3047204613685608
+     file: sources/loc-position_description-2023.txt
+
+
+When setting rates of pay, a new appointee who has had no previous Federal service will generally be paid at what step of the grade?
+
+   answer: step one
+  context: to employees when setting rates of pay, a new appointee who has had no previous Federal service will generally be paid at step one of the grade. The
+    score: 0.7735573053359985
+     file: sources/loc-position_description-2023.txt
+
+
+Where can you find the SF-15 form?
+
+
+Where can you get more information?
+
+   answer: Contact the hiring agency
+  context: whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits o!ered. units 
+    score: 0.4154859781265259
+     file: sources/loc-position_description-2023.txt
+
+   answer: contact the Library's O!ice of EEO/Diversity Programs at 202-707-6024 or email spp@loc.gov
+  context: ccepted. For more information contact the Library's O!ice of EEO/Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTI
+    score: 0.383220911026001
+     file: sources/loc-position_description-2023.txt
+
+   answer: contact the Library's O!ice of Equal Employment Opportunity and Diversity Programs at 202-707-6024 or email spp@loc.gov
+  context: ore information contact the Library's O!ice of Equal Employment Opportunity and Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SU
+    score: 0.3604140877723694
+     file: sources/loc-position_description-2023.txt
+
+
+Where do you enter your Social Security Number?
+
+   answer: USAJOBS
+  context: ume on USAJOBS. Although you must enter your Social Security Number for USAJOBS, this information will not be provided to the Library of Congress. St
+    score: 0.41172754764556885
+     file: sources/loc-position_description-2023.txt
+
+
+Where do you go to preview the online questions that you will answer in Step 4?
+
+   answer: end of the Qualification and Evaluation section of the job announcement
+  context: nnouncement. We recommend you go to the end of the Qualification and Evaluation section of the job announcement to preview the online questions that y
+    score: 0.44646936655044556
+     file: sources/loc-position_description-2023.txt
+
+
+Where do you go to submit your resume to USAJOBS?
+
+   answer: Hiring Management website
+  context: account and submit your resume. You will be redirected to the Hiring Management website to complete the application process. If this is your first ti
+    score: 0.5192843675613403
+     file: sources/loc-position_description-2023.txt
+
+
+Where is the Librarian position located?
+
+   answer: Network Development and Marc Standards O!ice, Acquisitions and Bibliographic Access Directorate, Discovery and Preservation Services
+  context: d in the Network Development and Marc Standards O!ice, Acquisitions and Bibliographic Access Directorate, Discovery and Preservation Services. The po
+    score: 0.509530782699585
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: Library of Congress evaluates applicants through an applicant questionnaire and a structured interview. Applicants may also be screened for some jobs 
+    score: 0.43029507994651794
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: Library of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility requirements are strongly 
+    score: 0.3140120506286621
+     file: sources/loc-position_description-2023.txt
+
+
+Who approves a student loan repayment?
+
+   answer: the appropriate service unit
+  context: d student loans. Therefore, determination to repay a federally insured student loan is subject to approval by the appropriate service unit. Are you a
+    score: 0.645776629447937
+     file: sources/loc-position_description-2023.txt
+
+
+Who can be reached at 202-707-6024 or email spp@loc.gov?
+
+   answer: the Library's O!ice of Equal Employment Opportunity and Diversity Programs
+  context: oviders. For more information contact the Library's O!ice of Equal Employment Opportunity and Diversity Programs at 202-707-6024 or email spp@loc.gov.
+    score: 0.6286525130271912
+     file: sources/loc-position_description-2023.txt
+
+   answer: the Library's O!ice of EEO/Diversity Programs
+  context: iders are not accepted. For more information contact the Library's O!ice of EEO/Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SU
+    score: 0.5747238397598267
+     file: sources/loc-position_description-2023.txt
+
+
+Who coordinates and facilitates projects?
+
+   answer: incumbent
+  context: incumbent coordinates and facilitates projects involving the creation and use of bibliographic data in a linked data environment along with developmen
+    score: 0.7131097316741943
+     file: sources/loc-position_description-2023.txt
+
+
+Who coordinates and facilitates projects involving the creation and use of bibliographic data in a linked data environment?
+
+   answer: incumbent
+  context: incumbent coordinates and facilitates projects involving the creation and use of bibliographic data in a linked data environment along with developmen
+    score: 0.9590138792991638
+     file: sources/loc-position_description-2023.txt
+
+
+Who is provided to the Library of Congress?
+
+
+Who is strongly encouraged to apply?
+
+   answer: Women, minorities, and persons with disabilities
+  context: rary of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility requirements are strongly enc
+    score: 0.7061409950256348
+     file: sources/loc-position_description-2023.txt
+
+
+Who is the liaison between XML and RDF?
+
+
+Who may be considered under special hiring procedures?
+
+   answer: Applicants with disabilities
+  context: on granting reasonable accommodation will be determined on a case-by-case basis. Applicants with disabilities may be considered under special hiring
+    score: 0.9612183570861816
+     file: sources/loc-position_description-2023.txt
+
+   answer: Applicants with disabilities
+  context: ent Notification of Personnel Action (SF-50 or equivalent). Applicants with disabilities may be considered under special hiring procedures and must s
+    score: 0.9359253644943237
+     file: sources/loc-position_description-2023.txt
+
+   answer: Applicants
+  context: icants through an applicant questionnaire and a structured interview. Applicants may also be screened for some jobs through licensing, certification, 
+    score: 0.41034919023513794
+     file: sources/loc-position_description-2023.txt
+
+
+Who may issue proof of disability/certification?
+
+   answer: State Vocational Rehabilitation O!ice, Disability Services or Career Services o!ice of the applicant’s college or university
+  context: ion may be issued by the State Vocational Rehabilitation O!ice, Disability Services or Career Services o!ice of the applicant’s college or university,
+    score: 0.5824536085128784
+     file: sources/loc-position_description-2023.txt
+
+   answer: State Vocational Rehabilitation O!ice, Disability Services or Career Services o!ice of the applicant’s college or university, or the Department of Veterans A!airs
+  context: State Vocational Rehabilitation O!ice, Disability Services or Career Services o!ice of the applicant’s college or university, or the Department of Veterans A!airs
+    score: 0.5531353950500488
+     file: sources/loc-position_description-2023.txt
+
+   answer: health care providers
+  context: the application.  The program does not accept certification from health care providers. For more information contact the Library's O!ice of Equal Empl
+    score: 0.3141396939754486
+     file: sources/loc-position_description-2023.txt
+
+
+Who may o!er repayment for all or part of federally insured student loans?
+
+   answer: The Library of Congress
+  context: t other Federal agencies do not count toward this requirement. The Library of Congress may o!er repayment for all or part of federally insured studen
+    score: 0.8191732168197632
+     file: sources/loc-position_description-2023.txt
+
+
+Who must apply for a 10-point preference for DD214?
+
+
+Who will not be authorized for the person(s) selected under this vacancy announcement?
+
+   answer: U.S. citizens
+  context: /working-in-government/unique-hiring-paths/public/ are no qualified U.S. citizens available for the position. Duties The position serves as a Linked
+    score: 0.7369133234024048
+     file: sources/loc-position_description-2023.txt
+
+
+Women, minorities and persons with disabilities are strongly encouraged to apply to what institution?
+
+   answer: Library of Congress
+  context: Library of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility requirements are strongly 
+    score: 0.9201360940933228
+     file: sources/loc-position_description-2023.txt
+
+   answer: Library of Congress
+  context: Library of Congress evaluates applicants through an applicant questionnaire and a structured interview. Applicants may also be screened for some jobs 
+    score: 0.443631112575531
+     file: sources/loc-position_description-2023.txt
+
+
+You may select a document that you have already uploaded to USAJOBS for a previous announcement.
+

@@ -1,0 +1,178 @@
+
+How did I extract the transcription from a video using Adobe Primier Pro?
+
+
+How many files are in this collection?
+
+   answer: 15,000
+  context: of about a dozen library-related journals, and there are approximately 15,000 individual files in this collection 6 I faciliated a Tech Seminar, and
+    score: 0.603521466255188
+     file: sources/whats-keeping-me-busy.txt
+
+
+How many individual files are there in this collection?
+
+   answer: 15,000
+  context: of about a dozen library-related journals, and there are approximately 15,000 individual files in this collection 6 I faciliated a Tech Seminar, and
+    score: 0.4865436851978302
+     file: sources/whats-keeping-me-busy.txt
+
+
+How many journals did I begin reading this morning?
+
+   answer: two
+  context: re, the process was trivial. 9 This morning I began reading the whole of two journals: 1) College & Research Libraries, and 2) Information Technology
+    score: 0.8442960381507874
+     file: sources/whats-keeping-me-busy.txt
+
+
+How many students have attended the workshops?
+
+   answer: forty
+  context: re more than functional. 2 I taught a few workshops, and to-date, about forty students have attended this semester's workshops. More students have be
+    score: 0.6798654794692993
+     file: sources/whats-keeping-me-busy.txt
+
+
+How many students have attended this semester's workshops?
+
+   answer: forty
+  context: re more than functional. 2 I taught a few workshops, and to-date, about forty students have attended this semester's workshops. More students have be
+    score: 0.6630945205688477
+     file: sources/whats-keeping-me-busy.txt
+
+
+How many students want the same?
+
+   answer: half a dozen
+  context: s, with her youthful enthusiasm she shared what she learned, and now half a dozen additional students want the same. Yikes! 4 I have taken the next s
+    score: 0.7973166704177856
+     file: sources/whats-keeping-me-busy.txt
+
+
+What did I give a one-on-one workshop to an undergraduate student on?
+
+   answer: natural langauge processing and Python
+  context: ne workshop to an undergraduate student on the topic of natural langauge processing and Python. I believe she went back to her colleagues, with her yo
+    score: 0.7596414089202881
+     file: sources/whats-keeping-me-busy.txt
+
+
+What did I teach her about digital scholarship?
+
+
+What did I write to generate her own time-series data?
+
+
+What did Mark Robison do?
+
+
+What did she share with her colleagues?
+
+   answer: what she learned
+  context: nt back to her colleagues, with her youthful enthusiasm she shared what she learned, and now half a dozen additional students want the same. Yikes! 4
+    score: 0.3547348976135254
+     file: sources/whats-keeping-me-busy.txt
+
+
+What did she use the software I wrote to generate?
+
+   answer: time-series data
+  context: lso taught her how to use the software I wrote to generate her own time-series data. She was wide-eyed. 8 I successfully extracted the transcription 
+    score: 0.6790310144424438
+     file: sources/whats-keeping-me-busy.txt
+
+
+What does the attached chart illustrate?
+
+   answer: the barest beginnings of my analysis
+  context: The attached chart illustrates the barest beginnings of my analysis. 'Makes sense, if you ask me. Next week's activities will be much of the same as 
+    score: 0.6387569904327393
+     file: sources/whats-keeping-me-busy.txt
+
+
+What do I see as an investment in my future?
+
+   answer: Carpentries
+  context: s, and technnology, let alone certification. On the other hand, I see Carpentries as an investment in my future. 5 Through the exploitation of a prot
+    score: 0.6439481973648071
+     file: sources/whats-keeping-me-busy.txt
+
+
+What do I see carpentry as?
+
+   answer: an investment in my future
+  context: alone certification. On the other hand, I see Carpentries as an investment in my future. 5 Through the exploitation of a protocol called OAI-PMH, I 
+    score: 0.8039016723632812
+     file: sources/whats-keeping-me-busy.txt
+
+
+What do I want to know about titles?
+
+   answer: themes, trends, or topics are manifested in these titles and how they ebbed & flowed over time
+  context: ates from 1939 to the present, and I want to know what themes, trends, or topics are manifested in these titles and how they ebbed & flowed over time.
+    score: 0.45498040318489075
+     file: sources/whats-keeping-me-busy.txt
+
+
+What has been keeping me busy in the past week?
+
+   answer: I've made a few new books
+  context: ping me busy in the past week? Here are a number of things: 1 I've made a few new books, and they are more than functional. 2 I taught a few worksho
+    score: 0.3673502504825592
+     file: sources/whats-keeping-me-busy.txt
+
+
+What is Eric Lease Morgan's email address?
+
+   answer: emorgan@nd.edu
+  context: lysis. 'Makes sense, if you ask me. Next week's activities will be much of the same as above. -Eric Lease Morgan <emorgan@nd.edu> November 2, 2022 
+    score: 0.5180433988571167
+     file: sources/whats-keeping-me-busy.txt
+
+
+What is the name of the person who will be attending the next week's activities?
+
+   answer: Eric Lease Morgan
+  context: lysis. 'Makes sense, if you ask me. Next week's activities will be much of the same as above. -Eric Lease Morgan <emorgan@nd.edu> November 2, 2022 
+    score: 0.4919673800468445
+     file: sources/whats-keeping-me-busy.txt
+
+
+What protocol has I downloaded the full text of?
+
+
+What topic did I develop a set of Carpentry episodes on?
+
+   answer: the Reader
+  context: developing a set of Carpentry episodes on the topic of the Reader, and the process is a bit top-heavy with committees, templates, and technnology, let
+    score: 0.8394407033920288
+     file: sources/whats-keeping-me-busy.txt
+
+
+What two languages did she learn?
+
+
+What year did the journal corpus begin?
+
+   answer: 1939
+  context: ries, and 2) Information Technology And Libraries. The corpus dates from 1939 to the present, and I want to know what themes, trends, or topics are ma
+    score: 0.8540687561035156
+     file: sources/whats-keeping-me-busy.txt
+
+
+When did the corpus of journals start?
+
+   answer: 1939
+  context: ries, and 2) Information Technology And Libraries. The corpus dates from 1939 to the present, and I want to know what themes, trends, or topics are ma
+    score: 0.8063855171203613
+     file: sources/whats-keeping-me-busy.txt
+
+
+Who has drawn the biggest crowd?
+
+   answer: Mark Robison
+  context: files in this collection 6 I faciliated a Tech Seminar, and so far Mark Robison has drawn the biggest crowd. 7 I worked with the student of Project
+    score: 0.9753425121307373
+     file: sources/whats-keeping-me-busy.txt
+

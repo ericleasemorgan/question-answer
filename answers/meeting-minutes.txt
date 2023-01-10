@@ -1,0 +1,262 @@
+
+How many Associate University Librarian positions have been approved?
+
+   answer: three
+  context: Third, Marcy Simons reported there are zero open faculty positions, but three Associate University Librarian positions have been approved. The hiring
+    score: 0.6988350749015808
+     file: sources/meeting-minutes.txt
+
+
+How many faculty positions are there?
+
+   answer: zero
+  context: s. Specifics were not discussed. Third, Marcy Simons reported there are zero open faculty positions, but three Associate University Librarian positio
+    score: 0.2235482931137085
+     file: sources/meeting-minutes.txt
+
+   answer: the briefest of Library Faculty Meeting Minutes
+  context: aculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there were introduc
+    score: 0.17553529143333435
+     file: sources/meeting-minutes.txt
+
+
+Marcy Simons brought to our attention that what will play a bigger role in next year's annual review and promotions processes?
+
+
+The push for AAU membership and the For Good Initiative are what?
+
+   answer: the briefest of Library Faculty Meeting Minutes
+  context: aculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there were introduc
+    score: 0.3366830348968506
+     file: sources/meeting-minutes.txt
+
+   answer: fund-raising efforts will be called the For Good Initiative, and the efforts will be facilitated differently than previous efforts
+  context: niversity fund-raising efforts will be called the For Good Initiative, and the efforts will be facilitated differently than previous efforts; the proc
+    score: 0.13464224338531494
+     file: sources/meeting-minutes.txt
+
+   answer: fully under way
+  context: er when the push for AAU membership and the For Good Initiative are fully under way. Dames also brought to our attention that the role of Diversity E
+    score: 0.13046462833881378
+     file: sources/meeting-minutes.txt
+
+
+What are ELF members?
+
+   answer: Executive Committee of the Library Faculty (ELF) members as well as a few library colleagues. ELF members include: Mark Robison, Aedin Clements, Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski
+  context: Executive Committee of the Library Faculty (ELF) members as well as a few library colleagues. ELF members include: Mark Robison, Aedin Clements, Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski
+    score: 0.5558124780654907
+     file: sources/meeting-minutes.txt
+
+
+What are the briefest of Library Faculty Meeting Minutes dated August 24, 2022?
+
+   answer: Library Faculty Meeting Minutes
+  context: Library Faculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there we
+    score: 0.38498854637145996
+     file: sources/meeting-minutes.txt
+
+
+What are the keywords of the year?
+
+   answer: 1) coordination,
+  context: ss will be similar to our strategic planning process. * Dames emphasized that this year is a transition year where the keywords are: 1) coordination,
+    score: 0.4548494219779968
+     file: sources/meeting-minutes.txt
+
+   answer: the briefest of Library Faculty Meeting Minutes
+  context: aculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there were introduc
+    score: 0.18689173460006714
+     file: sources/meeting-minutes.txt
+
+
+What are we currently focusing on?
+
+   answer: operational things
+  context: ation, and 3) culture. To elaborate, we are currently emphasizing operational things, establishing a concrete culture of excellence, and now is the ti
+    score: 0.6983354687690735
+     file: sources/meeting-minutes.txt
+
+   answer: the briefest of Library Faculty Meeting Minutes
+  context: aculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there were introduc
+    score: 0.12036803364753723
+     file: sources/meeting-minutes.txt
+
+
+What did Matthew Dames describe?
+
+   answer: a couple of meetings he recently attended
+  context: rickler and Doug _____. Next, Matthew Dames described a couple of meetings he recently attended, and he outlined things he believes are significant b
+    score: 0.588689923286438
+     file: sources/meeting-minutes.txt
+
+
+What did Randy help transform the Senate's website in the hopes of making the workings more transparent?
+
+
+What did the provost say the University should be?
+
+   answer: a member of the AAU (Association of American Universities)."
+  context: ovost said, "We [the University] ought to be a member of the AAU (Association of American Universities)." This is significant because the AAU and the 
+    score: 0.4991925060749054
+     file: sources/meeting-minutes.txt
+
+
+What is the acronym for the Association of American Universities?
+
+   answer: AAU
+  context: where the provost said, "We [the University] ought to be a member of the AAU (Association of American Universities)." This is significant because the
+    score: 0.620703935623169
+     file: sources/meeting-minutes.txt
+
+   answer: the briefest of Library Faculty Meeting Minutes
+  context: aculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there were introduc
+    score: 0.1256764531135559
+     file: sources/meeting-minutes.txt
+
+
+What organization has a large cross-section of membership?
+
+   answer: Executive Committee of the Library Faculty
+  context: ntroductions, re-introductions, and good-bye's to the Executive Committee of the Library Faculty (ELF) members as well as a few library colleagues. EL
+    score: 0.5806412100791931
+     file: sources/meeting-minutes.txt
+
+   answer: Association of Research Libraries (ARL)
+  context: ersities)." This is significant because the AAU and the Association of Research Libraries (ARL) have a significant cross-section of membership. * Dam
+    score: 0.48745930194854736
+     file: sources/meeting-minutes.txt
+
+
+What organization should the University be a part of?
+
+   answer: Executive Committee of the Library Faculty
+  context: ntroductions, re-introductions, and good-bye's to the Executive Committee of the Library Faculty (ELF) members as well as a few library colleagues. EL
+    score: 0.7104724645614624
+     file: sources/meeting-minutes.txt
+
+   answer: Association of American Universities
+  context: d, "We [the University] ought to be a member of the AAU (Association of American Universities)." This is significant because the AAU and the Associati
+    score: 0.5953152179718018
+     file: sources/meeting-minutes.txt
+
+   answer: Faculty Senate
+  context: rely begun. Fourth, Dan Johnson and Randy Harrison reported on the Faculty Senate. While theSenate's work has just commenced, there was a successful 
+    score: 0.2825985550880432
+     file: sources/meeting-minutes.txt
+
+
+What will the For Good Initiative be similar to?
+
+   answer: our strategic planning process
+  context: ently than previous efforts; the process will be similar to our strategic planning process. * Dames emphasized that this year is a transition year wh
+    score: 0.7369416952133179
+     file: sources/meeting-minutes.txt
+
+
+What will university fund-raising efforts be called?
+
+   answer: For Good Initiative
+  context: arned the next University fund-raising efforts will be called the For Good Initiative, and the efforts will be facilitated differently than previous e
+    score: 0.7965196371078491
+     file: sources/meeting-minutes.txt
+
+   answer: Executive Committee of the Library Faculty
+  context: ntroductions, re-introductions, and good-bye's to the Executive Committee of the Library Faculty (ELF) members as well as a few library colleagues. EL
+    score: 0.19373664259910583
+     file: sources/meeting-minutes.txt
+
+
+When is the first meeting of the University committee on libraries scheduled?
+
+   answer: August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022
+  context: y Faculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there were intro
+    score: 0.1791495382785797
+     file: sources/meeting-minutes.txt
+
+   answer: August 24, 2022
+  context: intents and purposes, there is nothing to report because the first meeting has yet to happen. -Respectfully submitted, Eric Morgan August 24, 2022 
+    score: 0.12362216413021088
+     file: sources/meeting-minutes.txt
+
+
+When is the time to take risks?
+
+   answer: now
+  context: ng operational things, establishing a concrete culture of excellence, and now is the time to be taking risks as opposed to later when the push for AAU
+    score: 0.49821925163269043
+     file: sources/meeting-minutes.txt
+
+   answer: the briefest
+  context: Library Faculty Meeting Minutes (August 24, 2022) These are the briefest of Library Faculty Meeting Minutes dated August 24, 2022. First, there we
+    score: 0.19812098145484924
+     file: sources/meeting-minutes.txt
+
+
+Who attended the University Leadership Council Meeting?
+
+   answer: Dames
+  context: earch Libraries (ARL) have a significant cross-section of membership. * Dames attended a University Leadership Council Meeting where Dames learned th
+    score: 0.5263245105743408
+     file: sources/meeting-minutes.txt
+
+   answer: Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski. Good-bye's included: Maren Rozumalski and Ben Chiewphasa. Introductions included: Christa Strickler and Doug _____. Next, Matthew Dames
+  context: Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski. Good-bye's included: Maren Rozumalski and Ben Chiewphasa. Introductions included: Christa Strickler and Doug _____. Next, Matthew Dames
+    score: 0.1843162178993225
+     file: sources/meeting-minutes.txt
+
+
+Who gave an update regarding the University Committee on Libraries?
+
+   answer: Parker Ladwig
+  context: the hopes of making the Senate's workings more transparent. Lastly, Parker Ladwig gave an update regarding the University Committee on Libraries, and
+    score: 0.7728825211524963
+     file: sources/meeting-minutes.txt
+
+   answer: Matthew Dames
+  context: sa. Introductions included: Christa Strickler and Doug _____. Next, Matthew Dames described a couple of meetings he recently attended, and he outline
+    score: 0.2435562014579773
+     file: sources/meeting-minutes.txt
+
+   answer: Marcy Simons
+  context: view and promotions processes. Specifics were not discussed. Third, Marcy Simons reported there are zero open faculty positions, but three Associate 
+    score: 0.13906830549240112
+     file: sources/meeting-minutes.txt
+
+
+Who is taking a leadership role because he has become the chair of a committee?
+
+   answer: Dan Johnson and Randy Harrison
+  context: barely begun. Fourth, Dan Johnson and Randy Harrison reported on the Faculty Senate. While theSenate's work has just commenced, there was a successfu
+    score: 0.3066278100013733
+     file: sources/meeting-minutes.txt
+
+   answer: Matthew Dames
+  context: brary colleagues. ELF members include: Mark Robison, Aedin Clements, Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski. Good-bye's 
+    score: 0.28665733337402344
+     file: sources/meeting-minutes.txt
+
+
+Who reported on the Faculty Senate?
+
+   answer: Dan Johnson and Randy Harrison
+  context: barely begun. Fourth, Dan Johnson and Randy Harrison reported on the Faculty Senate. While theSenate's work has just commenced, there was a successfu
+    score: 0.6794269680976868
+     file: sources/meeting-minutes.txt
+
+
+Who were ELF members?
+
+   answer: Mark Robison, Aedin Clements, Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski
+  context: ues. ELF members include: Mark Robison, Aedin Clements, Matthew Dames, Michael Deike, Daniel Johnson, and Pete Pietraszewski. Good-bye's included: Mar
+    score: 0.7346757650375366
+     file: sources/meeting-minutes.txt
+
+
+Who were good-bye's?
+
+   answer: Maren Rozumalski and Ben Chiewphasa
+  context: iel Johnson, and Pete Pietraszewski. Good-bye's included: Maren Rozumalski and Ben Chiewphasa. Introductions included: Christa Strickler and Doug ____
+    score: 0.664674699306488
+     file: sources/meeting-minutes.txt
+

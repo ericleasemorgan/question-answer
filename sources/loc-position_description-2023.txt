@@ -1,0 +1,381 @@
+
+Librarian (Linked Data Applications Technical
+Analyst)
+LEGISLATIVE BRANCH
+
+Library of Congress
+
+Summary
+This position is located in the Network Development and Marc Standards O!ice, Acquisitions and Bibliographic Access
+Directorate, Discovery and Preservation Services.
+
+The position description number for this position is 429569.
+
+The salary range indicated reflects the locality pay adjustments for the Washington, D.C., Metropolitan area.
+
+This is a non-supervisory, bargaining unit position.
+
+Relocation expenses will not be authorized for the person(s) selected under this vacancy announcement.
+
+Overview
+Accepting applications
+
+Open & closing dates
+ 01/09/2023 to 01/24/2023
+
+Salary
+$112,015 - $145,617 per year
+
+Pay scale & grade
+GS 13
+
+Location
+2 vacancies in the following location:
+
+Washington
+2 vacancies
+
+Remote job
+No
+
+Telework eligible
+
+https://www.usajobs.gov/job/698606100/print#agency-modal-trigger
+https://www.usajobs.gov/job/698606100/print#modal-trigger
+
+
+Yes—as determined by the agency policy.
+
+Relocation expenses reimbursed
+No
+
+Appointment type
+Permanent - Position
+
+Work schedule
+Full-time - Flexitime, Compflex, Maxiflex
+
+Service
+Excepted
+
+Promotion potential
+14
+
+Job family (Series)
+1410 Librarian
+(/Search/Results?j=1410)
+
+Supervisory status
+No
+
+Security clearance
+Other
+(/Help/faq/job-announcement/security-clearances/)
+
+Drug test
+No
+
+Announcement number
+VAR002113
+
+Control number
+698606100
+
+This job is open to
+The public
+U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+Clarification from the agency
+Anyone may apply - By law, employment at most U.S. Government agencies, including the Library of Congress, is limited to U.S.
+citizens. However, non-citizens may be hired, provided that other legal requirements are met and the Library determines there
+
+https://www.usajobs.gov/Search/Results?j=1410
+https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/
+https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/public/
+
+
+are no qualified U.S. citizens available for the position.
+
+Duties
+The position serves as a Linked Data Applications Technical Analyst for metadata applications and is located in the Network
+Development and MARC (Machine Readable Cataloging) Standards O!ice (NDMSO). The incumbent coordinates and facilitates
+projects involving the creation and use of bibliographic data in a linked data environment along with development of related
+standards. These projects relate to semantic technologies. The incumbent will work closely with NDMSO sta!, other Library
+Services sta!, and O!ice of the Chief Information O!icer (OCIO) sta! on components of a working environment that is based on
+linking data for metadata creation innovations, technical standards, exploration of tools, data dissemination techniques, and
+prototype applications that use and demonstrate linked data technologies.
+
+Participates in planning needed to implement strategies and standards for complex projects involving the creation and use of
+bibliographic data in a linked data environment.
+
+Supports or facilitates the analysis of the di!erences between various elements of a linked data environment and the current
+environment, specifying the advantages and disadvantages and making recommendations.
+
+Coordinates complex research and development activities and analysis of user requirements for the application of linked data
+technology to bibliographic data. Applies expert knowledge of computer languages and techniques for realizing program needs.
+Applies expertise in use of extensible Markup language (XML) and RDF for the e!ective use of XML Query (XQuery), Extensible
+Stylesheet Language transformations (XSLT), the RDF Query Language SPARQL, and management of triple stores.  Quickly
+develops new data skills and understands new architectures and application designs.
+
+Serves as liaison between Library Services and other Library divisions and o!ices to provide expert technical advice, assistance,
+and training (as needed) on new linked data technologies and standards. Participates in the national and international
+standards development processes.  As assigned represents the Library in the national and international library communities
+and other organizations on technical matters including linked data usage in libraries. Assures that Library implementations of
+linked data standards meet national and international specifications as well as community established good practices. Assists
+and advises other NDMSO sta! on matters related to linked data, e.g., use and development of the Library linked data initiative,
+BIBFRAME. Prepares and presents papers at meetings and conferences.
+
+Requirements
+Conditions of Employment
+Library of Congress employees are prohibited from using illegal drugs, including marijuana. The Library is part of the Federal
+Government and abides by federal law, so regardless of individual state or District of Columbia laws, marijuana use is illegal,
+considered criminal activity, and can a!ect your employment at the Library. In addition, past or current drug use and activities
+(e.g., selling or distributing) may deem you ineligible for employment.
+
+Qualifications
+Applicants must have had progressively responsible experience and training su!icient in scope and quality to furnish them with
+an acceptable level of the following knowledge, skills, and abilities to perform the duties of the position without more than
+normal supervision.
+
+
+
+Ability to implement and evaluate metadata and linked data standards.**
+
+Ability to perform research and analysis work.
+
+Ability to carry out and manage projects.
+
+Ability to collaborate with others and provide consultation and liaison services.
+
+Ability to communicate in writing.
+
+Ability to communicate e!ectively other than in writing.
+
+Education
+This job does not have an education qualification requirement.
+
+Additional information
+Although it is the Library's policy to a!ord the maximum pay benefit to employees when setting rates of pay, a new appointee
+who has had no previous Federal service will generally be paid at step one of the grade.
+
+The Library of Congress is an equal opportunity employer. Women, minorities, and persons with disabilities who meet eligibility
+requirements are strongly encouraged to apply.
+
+Applicants must submit a complete application package that is received by the closing date of this announcement.
+
+Appointment/retention is subject to a favorable evaluation of an appropriate personnel security/suitability investigation. For
+more information, please see:Vetting Process
+(https://www.loc.gov/careers/working-at-the-library/frequently-asked-questions/vetting-personnel-at-the-library/)
+
+This agency provides reasonable accommodation to applicants with disabilities. If you need a reasonable accommodation for
+any part of the application and hiring process, please email ADA@loc.gov. The decision on granting reasonable accommodation
+will be determined on a case-by-case basis.
+
+Applicants with disabilities may be considered under special hiring procedures and must submit an appropriate certificate of
+eligibility when applying for this position. The proof or disability/certification may be issued by the State Vocational
+Rehabilitation O!ice, Disability Services or Career Services o!ice of the applicant’s college or university, or the Department of
+Veterans A!airs. The letter must verify that the applicant has a severe disability and must be dated within three years of the date
+of the application.  Certification from health care providers are not accepted. For more information contact the Library's O!ice
+of EEO/Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR
+APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIVE PLACEMENT PROGRAM.
+
+The Library of Congress is the national library of the United States and is part of the Legislative Branch of the Federal
+government. As such, all positions are in the excepted service.
+
+The Library reserves the right to fill a lesser or greater number of vacancies indicated during the life of this vacancy
+announcement.
+
+Initial permanent appointments to the Library of Congress require completion of a one-year probationary period. Probationary
+periods served at other Federal agencies do not count toward this requirement.
+
+The Library of Congress may o!er repayment for all or part of federally insured student loans. However, not all service
+
+https://www.loc.gov/careers/working-at-the-library/frequently-asked-questions/vetting-personnel-at-the-library/
+
+
+Benefits
+A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and
+your family will have access to a range of benefits that are designed to make your federal career very rewarding. Learn more
+about federal benefits
+(https://www.usajobs.gov/Help/working-in-government/benefits/)
+
+.
+
+Review our benefits
+(https://www.loc.gov/careers/working-at-the-library/benefits/)
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or
+intermittent. Contact the hiring agency for more information on the specific benefits o!ered.
+
+units within the Library of Congress participates in the repayment of federally insured student loans. Therefore, determination
+to repay a federally insured student loan is subject to approval by the appropriate service unit.
+
+Are you a veteran?  Please indicate the type of veterans' preference you are claiming in your application materials and/or
+applicant profile and provide the appropriate supporting documentation to validate your claim.  Those applying for 5-point
+preference must submit Member Copy 4 of your DD 214.  Those applying for 10-point preference must fill out an SF-15 (click
+here
+(http://www.opm.gov/forms/pdf_fill/SF15.pdf)
+
+for the form) and provide the required documentation listed on the back of the form.  If required supporting documentation is
+not attached, Veterans' Preference will not be considered in the application process.
+
+How You Will Be Evaluated
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+The Library of Congress evaluates applicants through an applicant questionnaire and a structured interview. Applicants may
+also be screened for some jobs through licensing, certification, and/or education requirements, a narrative/application review,
+and/or a preliminary telephone interview.
+
+The knowledge, skills, and abilities (KSAs) that are marked with a double asterisk (**) in the vacancy announcement and the
+applicant questionnaire are considered the most critical for a position. To be considered for final selection, applicants must
+demonstrate fully acceptable experience in these designated KSAs in the narrative/application review, preliminary telephone
+and/or full structured interview.
+
+The various assessment tools listed above are designed to verify or explore applicants' experience, knowledge, and training
+directly related to the job in order to identify the best qualified applicants for selection.
+
+For more information regarding eligibility requirements, please see the Library of Congress Merit Selection Plan, Section 8.5,
+at: Merit Selection Plan
+
+You may preview questions for this vacancy.
+
+https://www.usajobs.gov/Help/working-in-government/benefits/
+https://www.loc.gov/careers/working-at-the-library/benefits/
+http://www.opm.gov/forms/pdf_fill/SF15.pdf
+https://loc.gov/static/portals/careers/documents/LCD-9-420.1%E2%80%93Merit-Selection-Plan_LC-Rules-and-Regulations.pdf
+https://jobs.monstergovt.com/loc/vacancy/previewVacancyQuestions.hms?orgId=1&jnum=26570
+
+
+Required Documents
+Current or former federal employees must submit their most recent Notification of Personnel Action (SF-50 or equivalent).
+
+Applicants with disabilities may be considered under special hiring procedures and must submit an appropriate certificate of
+eligibility when applying for this position. The proof or disability/certification may be issued by the State Vocational
+Rehabilitation O!ice, Disability Services or Career Services o!ice of the applicant’s college or university, or the Department of
+Veterans A!airs. The letter must verify that the applicant has a severe disability and must be dated within three years of the date
+of the application.  The program does not accept certification from health care providers. For more information contact the
+Library's O!ice of Equal Employment Opportunity and Diversity Programs at 202-707-6024 or email spp@loc.gov. FAILURE TO
+SUBMIT YOUR CERTIFICATION WILL CAUSE YOUR APPLICATION TO NOT BE CONSIDERED UNDER THE SELECTIVE PLACEMENT
+PROGRAM.
+
+How to Apply
+Please carefully follow all instructions under the How to Apply tab to ensure you are considered for the position.
+
+You are required to apply online for this announcement. We are unable to accept mailed or emailed documents. You must
+complete the entire application process, including submission of all documents BEFORE this announcement closes. To do so,
+complete the following steps.
+
+Step 1: If you do not already have one, create a resume on USAJOBS. Although you must enter your Social Security Number for
+USAJOBS, this information will not be provided to the Library of Congress.
+
+Step 2: Review the Job Announcement. We recommend you go to the end of the Qualification and Evaluation section of the job
+announcement to preview the online questions that you will answer in Step 4. You may wish to customize your USAJOBS
+resume to ensure that it supports your responses to these questions.
+
+Step 3: Click on the "APPLY ONLINE" button to the right of this announcement. Follow USAJOBS' instructions to access your
+account and submit your resume. You will be redirected to the Hiring Management website to complete the application process.
+If this is your first time in Hiring Management, you will be asked to answer questions related to your eligibility for Federal
+employment. You will be able to update this information and save it to our account for future announcements.
+
+Step 4: Once you have completed the eligibility questions, you will be taken directly to the vacancy application questions.
+Answer all questions honestly and thoroughly.
+
+Step 5: Hiring Management o!ers three options that will electronically attach your documentation to your online application
+once you finish answering the questions in the job announcement.
+
+(1) You may select a document that you have already uploaded to USAJOBS for a previous announcement.
+
+(2) You may electronically upload a document directly from your computer to your application. Be certain to review your
+complete application for confirmation of the document uploaded and click on "Finished" to be returned to USAJOBS.
+
+IMPORTANT NOTE: If you have multiple documents of the same kind, e.g. 2 undergraduate transcripts from di!erent schools or
+2 SF-50s, etc., be sure that they are all in the same file on your computer or in your USAJOBS profile before uploading them. If
+you try uploading them individually, only the last one sent will be visible in our system. If you have any questions about this
+information, please contact the person on this announcement BEFORE the closing date.
+
+
+
+Step 6: Click on "Finish" a#er you have completed your application. Once you have submitted your application, you can check
+your status online through your Hiring Management or MY USAJOBS account. Your complete online application and any
+required supplemental documentation (e.g., SF-50, etc.) must be received by 11:59 p.m. Eastern Standard Time (EST) on the
+closing date of the announcement. It is your responsibility to ensure that all documents are received on time and that the
+materials are readable. Failure to do so will result in your application being excluded from consideration for this announcement.
+
+If you are experiencing any technical di!iculty with the online process, you MUST CONTACT THE POINT OF CONTACT FOR THIS
+ANNOUNCEMENT BEFORE THE CLOSING DATE. For all technical issues please contact jobhelp@loc.gov , no later than 4:30pm
+EST of the Closing Date. REQUESTS FOR EXTENSIONS WILL NOT BE GRANTED.
+
+Next steps
+Please review our evaluation process under Evaluation. You may check the status of your application for this position at any
+time by logging onto the USAJOBS "My USAJOBS" tab and clicking on "My Applications." You will receive final notification via e-
+mail when the vacancy has been filled.
+
+Phone
+202-707-5620
+(tel:202-707-5620)
+
+Email
+JobHelp@loc.gov
+(mailto:JobHelp@loc.gov)
+
+Address
+
+LIBRARY OF CONGRESS
+101 Independence Ave. SE
+Washington, District of Columbia 20540
+United States
+
+Agency contact information
+
+ Customer Service Center
+
+Learn more about this agency
+(#agency-modal-trigger)
+
+Equal Employment Opportunity (EEO) Policy
+(/Help/equal-employment-opportunity/)
+
+Reasonable accommodation policy
+(/Help/reasonable-accommodation/)
+
+Financial suitability
+(/Help/working-in-government/fair-and-transparent/financial-
+suitability/)
+
+Selective Service
+(/Help/working-in-government/fair-and-transparent/selective-service/)
+
+New employee probationary period
+(/Help/working-in-government/fair-and-transparent/probationary-
+period/)
+
+Signature and false statements
+(/Help/working-in-government/fair-and-transparent/signature-false-
+statements/)
+
+Privacy Act
+(/Help/working-in-government/fair-and-transparent/privacy-act/)
+
+Social security number request
+(/Help/working-in-government/fair-and-transparent/social-security-
+
+Fair & Transparent
+The Federal hiring process is set up to be fair and transparent. Please read the following guidance.
+
+tel:202-707-5620
+mailto:JobHelp@loc.gov
+https://www.usajobs.gov/job/698606100/print#agency-modal-trigger
+https://www.usajobs.gov/Help/equal-employment-opportunity/
+https://www.usajobs.gov/Help/reasonable-accommodation/
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/financial-suitability/
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/selective-service/
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/probationary-period/
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/signature-false-statements/
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/privacy-act/
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/social-security-number/
+
+
+number/)
+
+https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/social-security-number/
+

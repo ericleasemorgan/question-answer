@@ -1,0 +1,304 @@
+
+How can one query the index?
+
+   answer: an SQL statement
+  context: indexed, one can query the index using an SQL statement taking the following form: SELECT * FROM indx WHERE indx MATCH <query> ORDER BY RANK; where 
+    score: 0.6220703721046448
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+How many articles are described in the JSON file?
+
+   answer: 2 million
+  context: ole of a JSON file and save it locally. As of this writing, as many as 2 million articles are described in the JSON file. The second step is to artic
+    score: 0.6376767754554749
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: zero
+  context: opics of physics, astronomy, and computer science. You will find all but zero articles in this repository on any topic relating to the humanities. Bas
+    score: 0.14145112037658691
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+How many articles are in arxiv?
+
+   answer: all but zero
+  context: he topics of physics, astronomy, and computer science. You will find all but zero articles in this repository on any topic relating to the humanities.
+    score: 0.418926477432251
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+How many fields can be included in a JSON file?
+
+
+How many tables does my schema include?
+
+   answer: three
+  context: ase schema suitable for my purposes. As of right now, my schema includes three tables: 1) bibliographics, 2) authors, and 3) categories. The next step
+    score: 0.8480854034423828
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What are JSON files of?
+
+   answer: bibliographic content
+  context: how I hope the index is used. Indexing There are JSON files of bibliographic content describing the whole of arxiv. It is hosted by Kaggle. This bib
+    score: 0.5397571325302124
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: bibliographic data
+  context: ion This posting outlines how I created a full text index of the bibliographic data describing the whole of content in a pre-print archive called... 
+    score: 0.19788478314876556
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What can be used to query the index and return results in a number of formats?
+
+   answer: a short Python script
+  context: computer AND category:astro NOT (library OR libraries) Finally, a short Python script can be used to query the index and return results in a number o
+    score: 0.8394327759742737
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: JSON files
+  context: a thing as well as how I hope the index is used. Indexing There are JSON files of bibliographic content describing the whole of arxiv. It is hosted 
+    score: 0.14189761877059937
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: metadata protocol
+  context: ly journal archives, and if I remember correctly, it is one of the first pre-print archives to support a metadata protocol called OAI-PMH. My hat goes
+    score: 0.12471020966768265
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: SQL INSERT statements
+  context: data, and output a set of SQL INSERT statements. These statements populate the bibliographic, author, and category tables. After that the INSERT state
+    score: 0.12249781936407089
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What can be used to query the index using a SQL statement?
+
+   answer: a short Python script
+  context: computer AND category:astro NOT (library OR libraries) Finally, a short Python script can be used to query the index and return results in a number o
+    score: 0.2998206317424774
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What does the next step do?
+
+   answer: to create a new table containing the content of all the other tables
+  context: ems such as Solr. Thus, the next step is to create a new table containing the content of all the other tables, and ultimatelky supports full text sear
+    score: 0.5643141865730286
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: to loop through the JSON file
+  context: ght now, my schema includes three tables: 1) bibliographics, 2) authors, and 3) categories. The next step is to loop through the JSON file, parse the
+    score: 0.4795758128166199
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: created a full text index
+  context: Arxiv Index Introduction This posting outlines how I created a full text index of the bibliographic data describing the whole of content in a pre-
+    score: 0.30265283584594727
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: create an index to its content as well as the content itself
+  context: is so transparently available, it is easy to create an index to its content as well as the content itself. This posting outlines how I did such a thin
+    score: 0.25278204679489136
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: a short Python script can be used to query the index and return results in a number of formats
+  context: ary OR libraries) Finally, a short Python script can be used to query the index and return results in a number of formats (CSV, JSON, lines, etc.). 
+    score: 0.10801168531179428
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What does the SQLite-ism support?
+
+   answer: functionality similar to other full text indexing systems
+  context: an SQLite-ism (called "FTS5") which implements functionality similar to other full text indexing systems such as Solr. Thus, the next step is to creat
+    score: 0.5183709263801575
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What does ultimatelky support?
+
+   answer: full text searching
+  context: ontaining the content of all the other tables, and ultimatelky supports full text searching. More specifically, once the whole of the tables have been
+    score: 0.9491937756538391
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: metadata protocol called OAI-PMH
+  context: ly journal archives, and if I remember correctly, it is one of the first pre-print archives to support a metadata protocol called OAI-PMH. My hat goes
+    score: 0.21348179876804352
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What do the INSERT statements populate?
+
+   answer: bibliographic, author, and category tables
+  context: SQL INSERT statements. These statements populate the bibliographic, author, and category tables. After that the INSERT statements are executed, and t
+    score: 0.7678951621055603
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is Arxiv?
+
+   answer: a pre-preprint archive of scholarly journal articles
+  context: n a pre-print archive called... arxiv. Arxiv is a pre-preprint archive of scholarly journal articles, mostly on the topics of physics, astronomy, and
+    score: 0.6352877616882324
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: relational database
+  context: fter that the INSERT statements are executed, and the result is a relational database modeling the whole of arxiv. The particular database applicatio
+    score: 0.25080928206443787
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: longevity and its transparency. If all disciplines were to have such an archive, then much of the current problem with the scholarly communications process would be alleviated. Because the content of arxiv is so transparently available, it is easy to create an index to its content as well as the content itself
+  context: longevity and its transparency. If all disciplines were to have such an archive, then much of the current problem with the scholarly communications process would be alleviated. Because the content of arxiv is so transparently available, it is easy to create an index to its content as well as the content itself
+    score: 0.16002121567726135
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is a short Python script to query?
+
+   answer: the index
+  context: ary OR libraries) Finally, a short Python script can be used to query the index and return results in a number of formats (CSV, JSON, lines, etc.). 
+    score: 0.4942309856414795
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is a text indexing system such as Solr?
+
+
+What is easy to create an index to its content?
+
+   answer: Because the content of arxiv
+  context: h the scholarly communications process would be alleviated. Because the content of arxiv is so transparently available, it is easy to create an index
+    score: 0.35199248790740967
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: full text
+  context: Arxiv Index Introduction This posting outlines how I created a full text index of the bibliographic data describing the whole of content in a pre-
+    score: 0.18505826592445374
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: SQL statement
+  context: indexed, one can query the index using an SQL statement taking the following form: SELECT * FROM indx WHERE indx MATCH <query> ORDER BY RANK; where 
+    score: 0.11685766279697418
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is one of the older open access, pre-print scholarly journal archives?
+
+   answer: arxiv
+  context: ository on any topic relating to the humanities. Based on my experience, arxiv is one of the older open access, pre-print scholarly journal archives, 
+    score: 0.8300917148590088
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is the current problem with the scholarly communications process?
+
+
+What is the first step in creating a bibliographic document?
+
+   answer: download the whole of a JSON file
+  context: ibliographic content for my purposes. The first step is to download the whole of a JSON file and save it locally. As of this writing, as many as 2 mil
+    score: 0.45307809114456177
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: full text index
+  context: Arxiv Index Introduction This posting outlines how I created a full text index of the bibliographic data describing the whole of content in a pre-
+    score: 0.14740294218063354
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is the name of the particular database application used in this instance?
+
+   answer: SQLite
+  context: of arxiv. The particular database application used in this instance is SQLite, and it supports an SQLite-ism (called "FTS5") which implements functio
+    score: 0.991507887840271
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: arxiv
+  context: ic data describing the whole of content in a pre-print archive called... arxiv. Arxiv is a pre-preprint archive of scholarly journal articles, mostly
+    score: 0.215220108628273
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: Kaggle
+  context: JSON files of bibliographic content describing the whole of arxiv. It is hosted by Kaggle. This bibliographic content includes fields such as but not
+    score: 0.21032404899597168
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is the name of the pre-print archive of scholarly journal articles called?
+
+   answer: arxiv
+  context: ic data describing the whole of content in a pre-print archive called... arxiv. Arxiv is a pre-preprint archive of scholarly journal articles, mostly
+    score: 0.39988166093826294
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What is the second step in articulating a database schema?
+
+   answer: to create a new table containing the content of all the other tables
+  context: ems such as Solr. Thus, the next step is to create a new table containing the content of all the other tables, and ultimatelky supports full text sear
+    score: 0.3479112386703491
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: suitable for my purposes
+  context: JSON file. The second step is to articulate a database schema suitable for my purposes. As of right now, my schema includes three tables: 1) bibliogr
+    score: 0.33186832070350647
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What was one of the first pre-print archives to support a metadata protocol called?
+
+   answer: OAI-PMH
+  context: ly journal archives, and if I remember correctly, it is one of the first pre-print archives to support a metadata protocol called OAI-PMH. My hat goes
+    score: 0.22113457322120667
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+What would the current problem with the scholarly communications process be if all disciplines had an archive?
+
+   answer: alleviated
+  context: he current problem with the scholarly communications process would be alleviated. Because the content of arxiv is so transparently available, it is e
+    score: 0.7788149118423462
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+Where is the code (a combination of Bash and Python) available?
+
+   answer: GitHub
+  context: en done, and the code (a combination of Bash and Python) is available on GitHub. Intended use -Eric Lease Morgan <emorgan@nd.edu> November 25, 2022 
+    score: 0.8926557302474976
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+Who hosts arxiv?
+
+   answer: Kaggle
+  context: JSON files of bibliographic content describing the whole of arxiv. It is hosted by Kaggle. This bibliographic content includes fields such as but not
+    score: 0.9116421341896057
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+Who is my hat off to for its longevity and its transparency?
+
+   answer: arxiv
+  context: off to arxiv for its longevity and its transparency. If all disciplines were to have such an archive, then much of the current problem with the schola
+    score: 0.40306657552719116
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+
+Why is the content of arxiv so transparently available?
+
+   answer: it is easy to create an index to its content as well as the content itself
+  context: arxiv is so transparently available, it is easy to create an index to its content as well as the content itself. This posting outlines how I did such
+    score: 0.6090866327285767
+     file: /home/emorgan/tmp/arxiv-index.txt
+
+   answer: more than enough bibliographic content for my purposes
+  context: r, 5) abstract, and a few other fields. This is more than enough bibliographic content for my purposes. The first step is to download the whole of a J
+    score: 0.1380378156900406
+     file: /home/emorgan/tmp/arxiv-index.txt
+

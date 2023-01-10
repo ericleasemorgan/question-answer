@@ -1,0 +1,51 @@
+
+
+What's been keeping me busy in the past week? Here are a number of things:
+
+   1 I've made a few new books, and they are more than functional.
+
+   2 I taught a few workshops, and to-date, about forty students have
+   attended this semester's workshops. More students have been attending
+   this semester than ever before.
+
+   3 I gave a one-on-one workshop to an undergraduate student on the topic
+   of natural langauge processing and Python. I believe she went back to
+   her colleagues, with her youthful enthusiasm she shared what she
+   learned, and now half a dozen additional students want the same. Yikes!
+
+   4 I have taken the next steps in developing a set of Carpentry episodes
+   on the topic of the Reader, and the process is a bit top-heavy with
+   committees, templates, and technnology, let alone certification. On the
+   other hand, I see Carpentries as an investment in my future.
+
+   5 Through the exploitation of a protocol called OAI-PMH, I have
+   downloaded the full text of about a dozen library-related journals, and
+   there are approximately 15,000 individual files in this collection
+
+   6 I faciliated a Tech Seminar, and so far Mark Robison has drawn the
+   biggest crowd.
+
+   7 I worked with the student of Project Monetary Policy, and I tried to
+   impress upon her characteristics of digital scholarship which include:
+   attribution, intellectual property, software as a form of academic
+   writing, and all things open. I also taught her how to use the software
+   I wrote to generate her own time-series data. She was wide-eyed.
+
+   8 I successfully extracted the transcription from a video using Adobe
+   Primier Pro. Once I actually got the software, the process was trivial.
+
+   9 This morning I began reading the whole of two journals: 1) College &
+   Research Libraries, and 2) Information Technology And Libraries. The
+   corpus dates from 1939 to the present, and I want to know what themes,
+   trends, or topics are manifested in these titles and how they ebbed &
+   flowed over time. The attached chart illustrates the barest beginnings
+   of my analysis. 'Makes sense, if you ask me.
+
+Next week's activities will be much of the same as above.
+
+--
+Eric Lease Morgan <emorgan@nd.edu>
+November 2, 2022
+
+
+

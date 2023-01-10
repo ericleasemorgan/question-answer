@@ -1,0 +1,18 @@
+Hello All,
+
+We’re hiring two positions in our office at the Library of Congress.  You’d mostly be working on Bibframe and ID.LOC.GOV in some capacity (so lots of RDF), but our office also manages the MARC standards and promulgates XML schemas such as MODS, MADS, MIX, ALTO, and provides maintenance services for a few others (PREMIS, METS, VRA). It’s possible you may find yourself touching those too at some point.
+
+We utilize XML technologies heavily, especially XQuery and XSLT, but we work with much more, including Python, NodeJS, Javascript, bash, SPARQL. We leverage XML databases, MongoDB, Docker, etc.  Generally anything that gets the job done, whatever the job is.
+
+The position opening closes in two weeks and one day, so plenty of time to apply.
+
+https://www.usajobs.gov/job/698606100
+
+All the best,
+Kevin
+
+--
+Kevin Ford
+Network Development and MARC Standards Office
+Library of Congress
+Washington, DC

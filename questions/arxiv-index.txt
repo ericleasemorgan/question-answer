@@ -1,0 +1,28 @@
+How can one query the index?
+How many articles are described in the JSON file?
+How many articles are in arxiv?
+How many fields can be included in a JSON file?
+How many tables does my schema include?
+What are JSON files of?
+What can be used to query the index and return results in a number of formats?
+What can be used to query the index using a SQL statement?
+What does the next step do?
+What does the SQLite-ism support?
+What does ultimatelky support?
+What do the INSERT statements populate?
+What is Arxiv?
+What is a short Python script to query?
+What is a text indexing system such as Solr?
+What is easy to create an index to its content?
+What is one of the older open access, pre-print scholarly journal archives?
+What is the current problem with the scholarly communications process?
+What is the first step in creating a bibliographic document?
+What is the name of the particular database application used in this instance?
+What is the name of the pre-print archive of scholarly journal articles called?
+What is the second step in articulating a database schema?
+What was one of the first pre-print archives to support a metadata protocol called?
+What would the current problem with the scholarly communications process be if all disciplines had an archive?
+Where is the code (a combination of Bash and Python) available?
+Who hosts arxiv?
+Who is my hat off to for its longevity and its transparency?
+Why is the content of arxiv so transparently available?

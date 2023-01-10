@@ -1,0 +1,495 @@
+
+Do we collect journals?
+
+   answer: Do we collect journals
+  context: ement our data as MARC or linked Data? We preserve differently. Do we collect journals, and then bind them on a regular basis? Or do we put them in to
+    score: 0.46185094118118286
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+Do we collect journals and then bind them on a regular basis?
+
+
+Do we put them in to things like Portico?
+
+   answer: the elements are generic
+  context: , vision, and goals could seemingly be applied to just about any organization, not necessarily the Hesburgh Libraries; the elements are generic. Also,
+    score: 0.32040712237358093
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How are collections organized?
+
+
+How do we collect things?
+
+   answer: store them centrally
+  context: nd have them go no where, or do we make efforts to collect them, store them centrally, and then call the result an institutional repository? Public se
+    score: 0.4602702260017395
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: through the means of preservation
+  context: reserving Libraries try to keep the materials they acquire through the means of preservation. Sometimes this is facilitated by maintaining climate con
+    score: 0.41746246814727783
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How do we preserve?
+
+   answer: through the means of preservation
+  context: reserving Libraries try to keep the materials they acquire through the means of preservation. Sometimes this is facilitated by maintaining climate con
+    score: 0.3166865408420563
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How do we send an object in the mail, via fax or just a link to a central location?
+
+
+How is the internal articulated mission expected to be different from the University's board of directors?
+
+
+How long have the how's of librarianship remained constant?
+
+   answer: centuries
+  context: have remained constant for centuries. On the other hand, the how's of librarianship change relatively quickly. How we collect things has changed. For
+    score: 0.8711932301521301
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How many goals does the Center have?
+
+   answer: four
+  context: ments What Sustainers Are Important? In my mind, there are essentially four library-wide sustainers. None are more important than the others; each a
+    score: 0.3257300555706024
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How many library-wide sustainers are there?
+
+   answer: four
+  context: ments What Sustainers Are Important? In my mind, there are essentially four library-wide sustainers. None are more important than the others; each a
+    score: 0.8405855894088745
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How many steps are there to make each of the goals/objectives SMART?
+
+   answer: three-fold
+  context: many different processes. Now, at the very least, the next steps are three-fold: 1) make each of the goals/objectives "SMART", 2) put the plan into a
+    score: 0.7839785218238831
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+How many United States Congressional Hearings do I collect?
+
+   answer: 50,000
+  context: de services against bibliographic materials. For example, I may collect 50,000 United States Congressional Hearings, organize them into smaller piles,
+    score: 0.930056095123291
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+In what year are sustainers and strategic planning in the libraries?
+
+   answer: 2022
+  context: Sustainers and Strategic Planning in the Libraries, 2022 This missive outlines my personal responses regarding the definition of sustainers as they
+    score: 0.9214653968811035
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+To we passively allow scholars to write things and have them go where?
+
+
+What are collection developers called in libraries?
+
+   answer: bibliographers
+  context: es, the people who do this work are called collection developers or bibliographers. * Organizing Once things have been identified for collection, the
+    score: 0.949761152267456
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.3542025685310364
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are collections of books called?
+
+
+What are computer-independent file formats that will be useable for decades?
+
+   answer: United States Congressional Hearings
+  context: bliographic materials. For example, I may collect 50,000 United States Congressional Hearings, organize them into smaller piles, save them in computer
+    score: 0.41718780994415283
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are important to the work you do?
+
+   answer: sustainers
+  context: aid: We are looking forward to hearing your perspectives on: * what sustainers are important to the work you do and where you see those connecting t
+    score: 0.3209471106529236
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are now-a-days called?
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.9022204875946045
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are the elements of the Hesburgh Libraries generic?
+
+
+What are the next steps?
+
+   answer: as soon as a different set of people are in power then there are new priorities
+  context: particular people are in power, and as soon as a different set of people are in power then there are new priorities. We here in the Libraries are expe
+    score: 0.31067323684692383
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are the people who do cataloging called?
+
+   answer: Librarian
+  context: Librarian University of Notre Dame June 23, 2022 
+    score: 0.39251673221588135
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are the people who do this work called?
+
+   answer: Archivists
+  context: repository, or participating in member organizations like HathiTrust. Archivists are usually the names of these people. * Servicing Once all the thin
+    score: 0.965562105178833
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: technical services staff
+  context: ng) as well as description (classification and cataloging). The people who do this work are usually called something like technical services staff. *
+    score: 0.625656008720398
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: Librarian
+  context: Librarian University of Notre Dame June 23, 2022 
+    score: 0.46918654441833496
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.43981194496154785
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What are the three elements of a plan?
+
+   answer: a mission, a vision, and a number of goals/objectives
+  context: elements of the plan include a mission, a vision, and a number of goals/objectives. More or less, I think our program connects with the elements; it i
+    score: 0.7270073294639587
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What can be easily boiled down to?
+
+   answer: an action verb applied against a noun
+  context: they are articulated. Each can easily be boiled down to an action verb applied against a noun. Consequently, we will apparently be developing many di
+    score: 0.6208145022392273
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: just about any organization
+  context: the mission, vision, and goals could seemingly be applied to just about any organization, not necessarily the Hesburgh Libraries; the elements are ge
+    score: 0.40189218521118164
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What changed libraries forever?
+
+   answer: the advent of the Internet
+  context: d 3) the fleeting nature of political realities. For example, the advent of the Internet changed and continues to change libraries forever. Duh! The c
+    score: 0.4152841866016388
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What changed what and how we acquire materials?
+
+   answer: The costs of library materials
+  context: net changed and continues to change libraries forever. Duh! The costs of library materials changed what and how we acquire materials. Ask yourself, "W
+    score: 0.7825700044631958
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What does the Center for Digital Scholarship collect, organize, preserve, and provide services against?
+
+   answer: bibliographic materials
+  context: hip I collect, organize, preserve, and provide services against bibliographic materials. For example, I may collect 50,000 United States Congressional
+    score: 0.9574933648109436
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What does the program connect with?
+
+   answer: the elements
+  context: of goals/objectives. More or less, I think our program connects with the elements; it is not difficult to read the elements and see how they can be ma
+    score: 0.6932539939880371
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: Plan Elements
+  context: power then there are new priorities. We here in the Libraries are experiencing all three of these things. Connecting with Plan Elements, or Not The
+    score: 0.4451392889022827
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: plan elements
+  context: onnecting to the plan * how the work of your program connects to the plan elements * elements of your work that you don’t see connecting to the plan e
+    score: 0.358224093914032
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do I save them in?
+
+   answer: computer-independent file formats
+  context: l Hearings, organize them into smaller piles, save them in computer-independent file formats which will be useable for decades, and enable students, r
+    score: 0.8680412769317627
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do libraries collect?
+
+   answer: , organize, preserve, and provide services against things
+  context: f libraries. What do libraries do? They collect, organize, preserve, and provide services against things, usually books and journals. The what's chang
+    score: 0.35629868507385254
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do libraries collect, organize, preserve, and provide services against?
+
+   answer: books and journals
+  context: organize, preserve, and provide services against things, usually books and journals. The what's change very s l o w l y . Depending on how you coun
+    score: 0.8495894074440002
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: bibliographic materials
+  context: hip I collect, organize, preserve, and provide services against bibliographic materials. For example, I may collect 50,000 United States Congressional
+    score: 0.6169023513793945
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do libraries exist to provide to constituent communities?
+
+   answer: collections and services
+  context: n the other hand, when you consider libraries exist to provide collections and services to constituent communities, the elements of the plan seem too 
+    score: 0.9773671627044678
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: services against things
+  context: do libraries do? They collect, organize, preserve, and provide services against things, usually books and journals. The what's change very s l o w l
+    score: 0.36516183614730835
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do libraries provide after all the above is done?
+
+   answer: services against them
+  context: the things above are put into place, we -the Libraries -provide services against them. With the advent of the Internet, the number of these services 
+    score: 0.7753462791442871
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: services against things
+  context: do libraries do? They collect, organize, preserve, and provide services against things, usually books and journals. The what's change very s l o w l
+    score: 0.4755370020866394
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do Libraries provide services against?
+
+   answer: books and journals
+  context: organize, preserve, and provide services against things, usually books and journals. The what's change very s l o w l y . Depending on how you coun
+    score: 0.6789916753768921
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: bibliographic materials
+  context: hip I collect, organize, preserve, and provide services against bibliographic materials. For example, I may collect 50,000 United States Congressional
+    score: 0.45373299717903137
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do libraries try to keep the materials they acquire through?
+
+   answer: the means of preservation
+  context: rving Libraries try to keep the materials they acquire through the means of preservation. Sometimes this is facilitated by maintaining climate control
+    score: 0.5812299847602844
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do students, researchers, and scholars use these file formats for?
+
+   answer: learning and teaching
+  context: le for decades, and enable students, researchers, and scholars to analyze, query, and read them for the purposes of learning and teaching. Again, all
+    score: 0.3530043065547943
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do the elements of the plan seem to be too inwardly focused?
+
+   answer: libraries
+  context: work I/we do here in the Center. On the other hand, when you consider libraries exist to provide collections and services to constituent communities,
+    score: 0.6647520661354065
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do we call the result of a collection of interlibrary loan objects?
+
+
+What do we call the results of librarianship?
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.8007997274398804
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: generic
+  context: , vision, and goals could seemingly be applied to just about any organization, not necessarily the Hesburgh Libraries; the elements are generic. Also,
+    score: 0.500623345375061
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: provide services against them
+  context: all the things above are put into place, we -the Libraries -provide services against them. With the advent of the Internet, the number of these servi
+    score: 0.39189353585243225
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What do you see the work of your program connecting to?
+
+   answer: the elements
+  context: of goals/objectives. More or less, I think our program connects with the elements; it is not difficult to read the elements and see how they can be ma
+    score: 0.688218891620636
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: bibliographic materials
+  context: hip I collect, organize, preserve, and provide services against bibliographic materials. For example, I may collect 50,000 United States Congressional
+    score: 0.5376996994018555
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What has changed in the public service?
+
+   answer: staff
+  context: called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some are very
+    score: 0.40246516466140747
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What has changed relatively quickly?
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.6115970611572266
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: the Internet
+  context: we -the Libraries -provide services against them. With the advent of the Internet, the number of these services have increased in efforts to remain re
+    score: 0.4446578919887543
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What is a mission, a vision and a number of goals/objectives?
+
+   answer: elements of the plan
+  context: elements of the plan include a mission, a vision, and a number of goals/objectives. More or less, I think our program connects with the elements; it i
+    score: 0.9004403352737427
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: SMART
+  context: st, the next steps are three-fold: 1) make each of the goals/objectives "SMART", 2) put the plan into action, and 3) re-evaluate after a limited perio
+    score: 0.34060388803482056
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What is Eric Lease Morgan's job title?
+
+
+What is MARC?
+
+
+What is one thing that happens when a library is absent?
+
+
+What is the answer to the question of how librarianship changes?
+
+   answer: 1)
+  context: tion literacy" or "digital scholarship"? Why to the how's of librarianship change so quickly when compared to the what's? The answer is rooted in: 1)
+    score: 0.7974409461021423
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.5481083989143372
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: Depending on how you count
+  context: ze, preserve, and provide services against things, usually books and journals. The what's change very s l o w l y . Depending on how you count, they
+    score: 0.3874583840370178
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: the Internet
+  context: we -the Libraries -provide services against them. With the advent of the Internet, the number of these services have increased in efforts to remain re
+    score: 0.31887561082839966
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What is the definition of sustainers in the Libraries?
+
+   answer: Archivists
+  context: repository, or participating in member organizations like HathiTrust. Archivists are usually the names of these people. * Servicing Once all the thin
+    score: 0.5108425617218018
+     file: sources/sustainers-and-strategic-planning.txt
+
+   answer: equally important
+  context: of the sustainers are equally important, and if any one of them are absent then two things happen. First, you do not have a library, and second, you h
+    score: 0.33188650012016296
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What is the name of the Librarian at Notre Dame?
+
+
+What is the process of bringing items into a library?
+
+
+What is the sound of one hand clapping?
+
+
+What system does the Library of Congress use?
+
+
+What were reference librarians called in the past?
+
+   answer: public services staff
+  context: usually called reference librarians, but now-a-days we call them public services staff. Many people across the Libraries do all of these tasks. Some 
+    score: 0.7431167364120483
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+What would you do differently if you had to pay 7% raise every year?
+
+
+Where is the Center for Information Technology located?
+
+
+Who are usually the names of the people who are responsible for archiving items?
+
+   answer: Archivists
+  context: repository, or participating in member organizations like HathiTrust. Archivists are usually the names of these people. * Servicing Once all the thin
+    score: 0.9764790534973145
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+Who once said that collections without services are useless?
+
+   answer: wise man
+  context: ave a library, and second, you have the sound of one hand clapping. As wise man once said, "Collections without services are useless, and services wit
+    score: 0.9358953237533569
+     file: sources/sustainers-and-strategic-planning.txt
+
+
+With the advent of the internet, the number of these services have increased in efforts to remain relevant?
+

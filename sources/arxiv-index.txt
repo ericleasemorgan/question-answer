@@ -1,0 +1,40 @@
+
+
+Arxiv Index
+
+
+Introduction
+
+This posting outlines how I created a full text index of the bibliographic data describing the whole of content in a pre-print archive called... arxiv.
+
+Arxiv is a pre-preprint archive of scholarly journal articles, mostly on the topics of physics, astronomy, and computer science. You will find all but zero articles in this repository on any topic relating to the humanities. Based on my experience, arxiv is one of the older open access, pre-print scholarly journal archives, and if I remember correctly, it is one of the first pre-print archives to support a metadata protocol called OAI-PMH. My hat goes off to arxiv for its longevity and its transparency. If all disciplines were to have such an archive, then much of the current problem with the scholarly communications process would be alleviated.
+
+Because the content of arxiv is so transparently available, it is easy to create an index to its content as well as the content itself. This posting outlines how I did such a thing as well as how I hope the index is used.
+
+
+Indexing
+
+There are JSON files of bibliographic content describing the whole of arxiv. It is hosted by Kaggle. This bibliographic content includes fields such as but not limited to: 1) author, 2) title, 3) date, 4) identifier, 5) abstract, and a few other fields. This is more than enough bibliographic content for my purposes. The first step is to download the whole of a JSON file and save it locally. As of this writing, as many as 2 million articles are described in the JSON file.
+
+The second step is to articulate a database schema suitable for my purposes. As of right now, my schema includes three tables: 1) bibliographics, 2) authors, and 3) categories. The next step is to loop  through the JSON file, parse the data, and output a set of SQL INSERT statements. These statements populate the bibliographic, author, and category tables. After that the INSERT statements are executed, and the result is a relational database modeling the whole of arxiv.
+
+The particular database application used in this instance is SQLite, and it supports an SQLite-ism (called "FTS5") which implements functionality similar to other full text indexing systems such as Solr. Thus, the next step is to create a new table containing the content of all the other tables, and ultimatelky supports full text searching. More specifically, once the whole of the tables have been indexed, one can query the index using an SQL statement taking the following form:
+
+  SELECT * FROM indx WHERE indx MATCH <query> ORDER BY RANK;
+
+where <query> is something as expressive as:
+
+  title:computer AND category:astro NOT (library OR libraries)
+
+Finally, a short Python script can be used to query the index and return results in a number of formats (CSV, JSON, lines, etc.).
+
+All of this has been done, and the code (a combination of Bash and Python) is available on GitHub.
+
+
+Intended use
+
+
+--
+Eric Lease Morgan <emorgan@nd.edu>
+November 25, 2022
+

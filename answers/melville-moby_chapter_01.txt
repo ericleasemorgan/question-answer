@@ -1,0 +1,950 @@
+
+Are the green fields gone?
+
+   answer: ships from China; some high aloft in the rigging, as if striving to get a still better seaward peep. But these are all landsmen; of week days pent up in lath and plaster--tied to counters, nailed to benches, clinched to desks. How then is this? Are the green fields gone
+  context: ships from China; some high aloft in the rigging, as if striving to get a still better seaward peep. But these are all landsmen; of week days pent up in lath and plaster--tied to counters, nailed to benches, clinched to desks. How then is this? Are the green fields gone
+    score: 0.103187695145607
+     file: sources/melville-moby_chapter_01.txt
+
+
+Head winds are far more prevalent than winds from what direction?
+
+   answer: astern
+  context: For as in this world, head winds are far more prevalent than winds from astern (that is, if you never violate the Pythagorean maxim), so for the most 
+    score: 0.971322774887085
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: northward
+  context: Go from Corlears Hook to Coenties Slip, and from thence, by Whitehall northward. What do you see?--Posted like silent sentinels all around the town, 
+    score: 0.24785038828849792
+     file: sources/melville-moby_chapter_01.txt
+
+
+How can a monied man enter heaven?
+
+   answer: on no account
+  context: rvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven. Ah!
+    score: 0.7578023672103882
+     file: sources/melville-moby_chapter_01.txt
+
+
+How did I feel about sailing?
+
+   answer: a mystical vibration
+  context: pon your first voyage as a passenger, did you yourself feel such a mystical vibration, when first told that you and your ship were now out of sight of
+    score: 0.486581027507782
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: tormented
+  context: hts and sounds, helped to sway me to my wish. With other men, perhaps, such things would not have been inducements; but as for me, I am tormented with
+    score: 0.21665439009666443
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: simple sailor
+  context: heir huge bake-houses the pyramids. No, when I go to sea, I go as a simple sailor, right before the mast, plumb down into the forecastle, aloft there
+    score: 0.2052079439163208
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: merchant sailor
+  context: it was that after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisibl
+    score: 0.17713016271591187
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: satisfaction of knowing that it is all right
+  context: owever they may thump and punch me about, I have the satisfaction of knowing that it is all right; that everybody else is one way or other served in m
+    score: 0.15583088994026184
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: welcome
+  context: one lodges in. By reason of these things, then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild
+    score: 0.12503789365291595
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: grin and bear it
+  context: uires a strong decoction of Seneca and the Stoics to enable you to grin and bear it. But even this wears off in time. What of it, if some old hunks o
+    score: 0.11976765841245651
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: always go to sea as a sailor
+  context: ow cheerfully we consign ourselves to perdition! Finally, I always go to sea as a sailor, because of the wholesome exercise and pure air of the forec
+    score: 0.11014678329229355
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: cherish very nearly the same feelings
+  context: it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me. There now is your insular c
+    score: 0.10719259828329086
+     file: sources/melville-moby_chapter_01.txt
+
+
+How did I perform the part I did?
+
+   answer: a sort of brief interlude and solo
+  context: ovidence that was drawn up a long time ago. It came in as a sort of brief interlude and solo between more extensive performances. I take it that this 
+    score: 0.2136518359184265
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: driving off the spleen, and regulating the circulation
+  context: watery part of the world. It is a way I have of driving off the spleen, and regulating the circulation. Whenever I find myself growing grim about the 
+    score: 0.17000281810760498
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: abominate all honorable respectable toils, trials, and tribulations
+  context: them. For my part, I abominate all honorable respectable toils, trials, and tribulations of every kind whatsoever. It is quite as much as I can do to 
+    score: 0.12614218890666962
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: under various disguises
+  context: l the circumstances, I think I can see a little into the springs and motives which being cunningly presented to me under various disguises, induced me
+    score: 0.11704252660274506
+     file: sources/melville-moby_chapter_01.txt
+
+
+How do passengers get sea sick?
+
+   answer: --grow quarrelsome
+  context: unless you have something in it. Besides, passengers get sea-sick--grow quarrelsome--don't sleep of nights--do not enjoy themselves much, as a genera
+    score: 0.6189250349998474
+     file: sources/melville-moby_chapter_01.txt
+
+
+How many men cherish almost the same feelings towards the ocean with me?
+
+   answer: almost all
+  context: o the ship. There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same
+    score: 0.5758582949638367
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: thousands upon thousands
+  context: see?--Posted like silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against th
+    score: 0.4289904236793518
+     file: sources/melville-moby_chapter_01.txt
+
+
+How many Patagonian sights and sounds did the monster have?
+
+   answer: a thousand
+  context: ameless perils of the whale; these, with all the attending marvels of a thousand Patagonian sights and sounds, helped to sway me to my wish. With othe
+    score: 0.612618088722229
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: thousands upon thousands
+  context: see?--Posted like silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against th
+    score: 0.18567439913749695
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: two and two
+  context: ld swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale,
+    score: 0.10267427563667297
+     file: sources/melville-moby_chapter_01.txt
+
+
+How many paths do you take?
+
+   answer: ten to one
+  context: try; in some high land of lakes. Take almost any path you please, and ten to one it carries you down in a dale, and leaves you there by a pool in the 
+    score: 0.5505459904670715
+     file: sources/melville-moby_chapter_01.txt
+
+
+I am quick to perceive what?
+
+   answer: a horror
+  context: on barbarous coasts. Not ignoring what is good, I am quick to perceive a horror, and could still be social with it--would they let me--since it is but
+    score: 0.8339405655860901
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: magic stream
+  context: ad, yet all were vain, unless the shepherd's eye were fixed upon the magic stream before him. Go visit the Prairies in June, when for scores on scores
+    score: 0.10363108664751053
+     file: sources/melville-moby_chapter_01.txt
+
+
+Narcissus plunged into what fountain and was drowned?
+
+   answer: fountain
+  context: ho because he could not grasp the tormenting, mild image he saw in the fountain, plunged into it and was drowned. But that same image, we ourselves se
+    score: 0.3697194457054138
+     file: sources/melville-moby_chapter_01.txt
+
+
+What are mortal men fixed in ocean reveries?
+
+   answer: thousands upon thousands
+  context: see?--Posted like silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against th
+    score: 0.6173006296157837
+     file: sources/melville-moby_chapter_01.txt
+
+
+What are some leaning against the spiles?
+
+
+What are thousands upon thousands of mortal men fixed in?
+
+   answer: ocean reveries
+  context: und the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against the spiles; some seated upon the pier-heads; 
+    score: 0.9709604978561401
+     file: sources/melville-moby_chapter_01.txt
+
+
+What attracts them thither?
+
+   answer: the magnetic virtue of the needles of the compasses of all those ships
+  context: Yet here they all unite. Tell me, does the magnetic virtue of the needles of the compasses of all those ships attract them thither? Once more. Say, 
+    score: 0.6068810820579529
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: the extremest limit of the land
+  context: ly bound for a dive. Strange! Nothing will content them but the extremest limit of the land; loitering under the shady lee of yonder warehouses will n
+    score: 0.21217843890190125
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: cherish very nearly the same feelings towards the ocean
+  context: st all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me. There now is your insular city of th
+    score: 0.1292506605386734
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: the wild and distant seas
+  context: ortentous and mysterious monster roused all my curiosity. Then the wild and distant seas where he rolled his island bulk; the undeliverable, nameless 
+    score: 0.10719118267297745
+     file: sources/melville-moby_chapter_01.txt
+
+
+What did I never fancied broiling?
+
+   answer: fowls
+  context: a sort of officer on ship-board--yet, somehow, I never fancied broiling fowls;--though once broiled, judiciously buttered, and judgmatically salted a
+    score: 0.9106205701828003
+     file: sources/melville-moby_chapter_01.txt
+
+
+What did I see in the disguises that were presented to me?
+
+   answer: springs and motives
+  context: recall all the circumstances, I think I can see a little into the springs and motives which being cunningly presented to me under various disguises, i
+    score: 0.7159606218338013
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: invisible police officer of the Fates
+  context: take it into my head to go on a whaling voyage; this the invisible police officer of the Fates, who has the constant surveillance of me, and secretly 
+    score: 0.1614621877670288
+     file: sources/melville-moby_chapter_01.txt
+
+
+What did the Greeks give the sea a separate deity?
+
+
+What did the idea of the great whale roused all my curiosity about?
+
+   answer: mysterious monster
+  context: erwhelming idea of the great whale himself. Such a portentous and mysterious monster roused all my curiosity. Then the wild and distant seas where he 
+    score: 0.3780174255371094
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: voyage
+  context: a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisible police officer of the Fates, who has the constant s
+    score: 0.2470603883266449
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: wonder-world
+  context: , then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, t
+    score: 0.17891408503055573
+     file: sources/melville-moby_chapter_01.txt
+
+
+What did the mysterious monster roused all my curiosity?
+
+   answer: the great whale
+  context: g judgment. Chief among these motives was the overwhelming idea of the great whale himself. Such a portentous and mysterious monster roused all my cu
+    score: 0.43815839290618896
+     file: sources/melville-moby_chapter_01.txt
+
+
+What did the sailors on the forecastle think he breathed first?
+
+   answer: the sea
+  context: it was that after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisibl
+    score: 0.2440769076347351
+     file: sources/melville-moby_chapter_01.txt
+
+
+What did the whaling voyage welcome?
+
+   answer: the great flood-gates of the wonder-world swung open
+  context: se things, then, the whaling voyage was welcome; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my p
+    score: 0.3780967593193054
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do cattle sleep in?
+
+   answer: meadow
+  context: sleeps his meadow, and there sleep his cattle; and up from yonder cottage goes a sleepy smoke. Deep into distant woodlands winds a mazy way, reaching 
+    score: 0.11255291104316711
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do crowds seem bound for?
+
+   answer: a dive
+  context: ome more crowds, pacing straight for the water, and seemingly bound for a dive. Strange! Nothing will content them but the extremest limit of the land
+    score: 0.9020799398422241
+     file: sources/melville-moby_chapter_01.txt
+
+
+What does a grasshopper in a May meadow touch one's sense of honor?
+
+
+What does a sailor require to be able to bear?
+
+   answer: a strong decoction of Seneca and the Stoics
+  context: you, from the schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it. But even this wea
+    score: 0.4260181188583374
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: a purse
+  context: go to sea as a passenger. For to go as a passenger you must needs have a purse, and a purse is but a rag unless you have something in it. Besides, pa
+    score: 0.15873613953590393
+     file: sources/melville-moby_chapter_01.txt
+
+
+What does a simple sailor do when he goes to sea?
+
+   answer: right before the mast, plumb down into the forecastle
+  context: No, when I go to sea, I go as a simple sailor, right before the mast, plumb down into the forecastle, aloft there to the royal mast-head. True, they
+    score: 0.4526611268520355
+     file: sources/melville-moby_chapter_01.txt
+
+
+What does Cato throw upon his sword?
+
+
+What does each of the trees have a hollow trunk, as if a hermit and a crucifix were within?
+
+   answer: trees
+  context: alley of the Saco. What is the chief element he employs? There stand his trees, each with a hollow trunk, as if a hermit and a crucifix were within; a
+    score: 0.24278710782527924
+     file: sources/melville-moby_chapter_01.txt
+
+
+What does Gabriel think of me in the New Testament?
+
+   answer: anything the less
+  context: think the archangel Gabriel thinks anything the less of me, because I promptly and respectfully obey that old hunks in that particular instance? Who a
+    score: 0.4151267409324646
+     file: sources/melville-moby_chapter_01.txt
+
+
+What does it require a strong moral principle to prevent me from deliberately stepping into the street?
+
+
+What does not mean that I ever go to sea as a passenger?
+
+
+What does the Commodore on the quarter-deck get at second hand from the sailors on the forecastle?
+
+   answer: atmosphere
+  context: xim), so for the most part the Commodore on the quarter-deck gets his atmosphere at second hand from the sailors on the forecastle. He thinks he breat
+    score: 0.7323521971702576
+     file: sources/melville-moby_chapter_01.txt
+
+
+What does the commonalty lead their leaders in many other things?
+
+
+What does the strong decoction of Seneca and the Stoics enable you to do?
+
+   answer: grin and bear it
+  context: uires a strong decoction of Seneca and the Stoics to enable you to grin and bear it. But even this wears off in time. What of it, if some old hunks o
+    score: 0.8866251707077026
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: take care of myself
+  context: ions of every kind whatsoever. It is quite as much as I can do to take care of myself, without taking care of ships, barques, brigs, schooners, and wh
+    score: 0.1586306095123291
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: driving off the spleen, and regulating the circulation
+  context: watery part of the world. It is a way I have of driving off the spleen, and regulating the circulation. Whenever I find myself growing grim about the 
+    score: 0.11965914815664291
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do I bring up the rear of every funeral I meet?
+
+   answer: coffin warehouses
+  context: er in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially
+    score: 0.4017274081707001
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do I do to take care of myself without taking care of ships, barques, brigs, schooners and what else?
+
+
+What do I do when I begin to grow hazy about the eyes and begin to be over conscious of my lungs?
+
+   answer: going to sea
+  context: ntom of life; and this is the key to it all. Now, when I say that I am in the habit of going to sea whenever I begin to grow hazy about the eyes, and
+    score: 0.3500244617462158
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do I do when my hypos get an upper hand of me?
+
+
+What do I love to sail forbidden seas and land on barbarous coasts?
+
+   answer: an everlasting itch for things remote
+  context: an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts. Not ignoring what is good, I am quick to perceive 
+    score: 0.16825731098651886
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do landsmen of week days pent up in lath and plaster--tied to counters, nailed to benches, clinched to desks?
+
+   answer: ships from China
+  context: ships from China; some high aloft in the rigging, as if striving to get a still better seaward peep. But these are all landsmen; of week days pent up 
+    score: 0.25331753492355347
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do the old Egyptians do to the mummies of the Egyptians?
+
+
+What do the old sea-captains order me about?
+
+   answer: get a broom and sweep down the decks
+  context: t of it, if some old hunks of a sea-captain orders me to get a broom and sweep down the decks? What does that indignity amount to, weighed, I mean, in
+    score: 0.4707571268081665
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: some
+  context: le, aloft there to the royal mast-head. True, they rather order me about some, and make me jump from spar to spar, like a grasshopper in a May meadow.
+    score: 0.26516464352607727
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: thump and punch me about
+  context: ever the old sea-captains may order me about--however they may thump and punch me about, I have the satisfaction of knowing that it is all right; that
+    score: 0.2421453297138214
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: whaling voyage
+  context: as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisible police officer of the Fates, who has the consta
+    score: 0.22123315930366516
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do the streets take you to?
+
+   answer: waterward
+  context: merce surrounds it with her surf. Right and left, the streets take you waterward. Its extreme down-town is the battery, where that noble mole is washe
+    score: 0.510410487651825
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do the tallest boys stand in awe of you?
+
+
+What do they order me about?
+
+   answer: whaling voyage
+  context: as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisible police officer of the Fates, who has the consta
+    score: 0.36544960737228394
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: some
+  context: le, aloft there to the royal mast-head. True, they rather order me about some, and make me jump from spar to spar, like a grasshopper in a May meadow.
+    score: 0.31237614154815674
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: thump and punch me about
+  context: ever the old sea-captains may order me about--however they may thump and punch me about, I have the satisfaction of knowing that it is all right; that
+    score: 0.1205989196896553
+     file: sources/melville-moby_chapter_01.txt
+
+
+What do you see around Corlears Hook?
+
+
+What helped to sway me to my wish?
+
+   answer: the wild and distant seas
+  context: ortentous and mysterious monster roused all my curiosity. Then the wild and distant seas where he rolled his island bulk; the undeliverable, nameless 
+    score: 0.4178893566131592
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: after having repeatedly smelt the sea
+  context: it was that after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisibl
+    score: 0.27161651849746704
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: two handfuls of silver
+  context: it? Why did the poor poet of Tennessee, upon suddenly receiving two handfuls of silver, deliberate whether to buy him a coat, which he sadly needed, o
+    score: 0.13296662271022797
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: conceits
+  context: the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inmost
+    score: 0.12656261026859283
+     file: sources/melville-moby_chapter_01.txt
+
+
+What image do we see in all rivers and oceans?
+
+   answer: Narcissus, who because he could not grasp the tormenting, mild image he saw in the fountain, plunged into it and was drowned. But that same image, we ourselves see in all rivers and oceans. It is the image of the ungraspable phantom of life
+  context: Narcissus, who because he could not grasp the tormenting, mild image he saw in the fountain, plunged into it and was drowned. But that same image, we ourselves see in all rivers and oceans. It is the image of the ungraspable phantom of life
+    score: 0.23267269134521484
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: thousands upon thousands of mortal men fixed in ocean reveries
+  context: silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against the spiles; some seat
+    score: 0.17031452059745789
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is an example of an old established family in the land?
+
+   answer: the van Rensselaers, or Randolphs, or Hardicanutes
+  context: one's sense of honor, particularly if you come of an old established family in the land, the van Rensselaers, or Randolphs, or Hardicanutes. And more
+    score: 0.6545981764793396
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is a rag unless you have something in it?
+
+   answer: a purse
+  context: a passenger. For to go as a passenger you must needs have a purse, and a purse is but a rag unless you have something in it. Besides, passengers get 
+    score: 0.7939904928207397
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is a way I have of driving off the spleen and regulating the circulation?
+
+   answer: Ishmael
+  context: CHAPTER I. LOOMINGS Call me Ishmael. Some years ago--never mind how long precisely--having little or no money in my purse, and nothing particular to 
+    score: 0.8402365446090698
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is Cato's substitute for pistol and ball?
+
+
+What is magic in it?
+
+   answer: magic stream
+  context: ad, yet all were vain, unless the shepherd's eye were fixed upon the magic stream before him. Go visit the Prairies in June, when for scores on scores
+    score: 0.14916101098060608
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: meditation
+  context: o be supplied with a metaphysical professor. Yes, as every one knows, meditation and water are wedded for ever. But here is an artist. He desires to 
+    score: 0.14257189631462097
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is magic in the desert?
+
+
+What is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us?
+
+   answer: The act of paying
+  context: is all the difference in the world between paying and being paid. The act of paying is perhaps the most uncomfortable infliction that the two orchard
+    score: 0.8255566358566284
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the key to life?
+
+
+What is the most romantic landscape in all the valley of the Saco?
+
+   answer: trees
+  context: alley of the Saco. What is the chief element he employs? There stand his trees, each with a hollow trunk, as if a hermit and a crucifix were within; a
+    score: 0.20359566807746887
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the most uncomfortable infliction of paying?
+
+   answer: The act of paying
+  context: is all the difference in the world between paying and being paid. The act of paying is perhaps the most uncomfortable infliction that the two orchard
+    score: 0.13701742887496948
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the name of the insular city of the Manhattoes?
+
+
+What is the name of the tree that shakes down its sighs like leaves upon?
+
+   answer: pine
+  context: ill-side blue. But though the picture lies thus tranced, and though this pine-tree shakes down its sighs like leaves upon this shepherd's head, yet al
+    score: 0.7929636240005493
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the one charm wanting?
+
+   answer: Water
+  context: miles you wade knee-deep among Tiger-lilies--what is the one charm wanting?--Water--there is not a drop of water there! Were Niagara but a cataract of
+    score: 0.36314767599105835
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the root of all earthly ills?
+
+
+What is the transition from schoolmaster to sailor?
+
+   answer: keen one, I assure you, from the schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it
+  context: keen one, I assure you, from the schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it
+    score: 0.18480244278907776
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the universal thump passed around?
+
+   answer: all hands should rub each other's shoulder-blades
+  context: s; and so the universal thump is passed round, and all hands should rub each other's shoulder-blades, and be content. Again, I always go to sea as a 
+    score: 0.3169505298137665
+     file: sources/melville-moby_chapter_01.txt
+
+
+What is the urbane activity with which a man receives money really marvellous?
+
+   answer: being paid
+  context: ortable infliction that the two orchard thieves entailed upon us. But being paid,--what will compare with it? The urbane activity with which a man rec
+    score: 0.752020537853241
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: go to sea
+  context: boy with a robust healthy soul in him, at some time or other crazy to go to sea? Why upon your first voyage as a passenger, did you yourself feel suc
+    score: 0.5390050411224365
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: cook
+  context: e of ships, barques, brigs, schooners, and what not. And as for going as cook,--though I confess there is considerable glory in that, a cook being a s
+    score: 0.3147086799144745
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: thousands upon thousands of mortal men fixed in ocean reveries
+  context: silent sentinels all around the town, stand thousands upon thousands of mortal men fixed in ocean reveries. Some leaning against the spiles; some seat
+    score: 0.18544866144657135
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: reveries
+  context: there by a pool in the stream. There is magic in it. Let the most absent-minded of men be plunged in his deepest reveries--stand that man on his legs,
+    score: 0.10365122556686401
+     file: sources/melville-moby_chapter_01.txt
+
+
+What kind of fowl do I go to sea?
+
+   answer: whale
+  context: ts that swayed me to my purpose, two and two there floated into my inmost soul, endless processions of the whale, and, mid most of them all, one grand
+    score: 0.18409325182437897
+     file: sources/melville-moby_chapter_01.txt
+
+
+What kind of interlude did the bill have?
+
+   answer: brief
+  context: of Providence that was drawn up a long time ago. It came in as a sort of brief interlude and solo between more extensive performances. I take it that 
+    score: 0.7413352727890015
+     file: sources/melville-moby_chapter_01.txt
+
+
+What kind of officer is a cook on ship-board?
+
+   answer: Captain
+  context: ough I am something of a salt, do I ever go to sea as a Commodore, or a Captain, or a Cook. I abandon the glory and distinction of such offices to tho
+    score: 0.1396862119436264
+     file: sources/melville-moby_chapter_01.txt
+
+
+What kind of part did I play in comedies?
+
+   answer: easy parts in genteel
+  context: set down for magnificent parts in high tragedies, and short and easy parts in genteel comedies, and jolly parts in farces--though I cannot tell why t
+    score: 0.2716687321662903
+     file: sources/melville-moby_chapter_01.txt
+
+
+What kind of person do I never go to sea as?
+
+
+What kind of toils, trials, and tribulations do I abominate?
+
+   answer: all honorable respectable
+  context: them. For my part, I abominate all honorable respectable toils, trials, and tribulations of every kind whatsoever. It is quite as much as I can do to 
+    score: 0.6409826874732971
+     file: sources/melville-moby_chapter_01.txt
+
+
+What must they get just as nigh the water as they possibly can without falling in?
+
+   answer: warehouses
+  context: extremest limit of the land; loitering under the shady lee of yonder warehouses will not suffice. No. They must get just as nigh the water as they po
+    score: 0.1710565984249115
+     file: sources/melville-moby_chapter_01.txt
+
+
+What must you have in order to go as a passenger?
+
+   answer: a purse
+  context: go to sea as a passenger. For to go as a passenger you must needs have a purse, and a purse is but a rag unless you have something in it. Besides, pa
+    score: 0.819229006767273
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: pay
+  context: e penny that I ever heard of. On the contrary, passengers themselves must pay. And there is all the difference in the world between paying and being p
+    score: 0.18036597967147827
+     file: sources/melville-moby_chapter_01.txt
+
+
+What part of the grand programme of Providence was drawn up a long time ago?
+
+   answer: whaling voyage
+  context: n better answer than any one else. And, doubtless, my going on this whaling voyage, formed part of the grand programme of Providence that was drawn up
+    score: 0.23555591702461243
+     file: sources/melville-moby_chapter_01.txt
+
+
+What satisfaction do I have knowing that it is all right?
+
+   answer: satisfaction
+  context: rder me about--however they may thump and punch me about, I have the satisfaction of knowing that it is all right; that everybody else is one way or o
+    score: 0.2745218575000763
+     file: sources/melville-moby_chapter_01.txt
+
+
+What should all hands rub each other's shoulder-blades and be content with?
+
+   answer: universal thump
+  context: er in a physical or metaphysical point of view, that is; and so the universal thump is passed round, and all hands should rub each other's shoulder-bl
+    score: 0.20712435245513916
+     file: sources/melville-moby_chapter_01.txt
+
+
+What stage managers put me down for the shabby part of a whaling voyage?
+
+   answer: the Fates
+  context: ." Though I cannot tell why it was exactly that those stage managers, the Fates, put me down for this shabby part of a whaling voyage, when others we
+    score: 0.9318579435348511
+     file: sources/melville-moby_chapter_01.txt
+
+
+What surrounds it with her surf?
+
+   answer: commerce
+  context: coral reefs--commerce surrounds it with her surf. Right and left, the streets take you waterward. Its extreme down-town is the battery, where that nob
+    score: 0.4853949546813965
+     file: sources/melville-moby_chapter_01.txt
+
+
+What swayed me to my purpose?
+
+   answer: wild conceits
+  context: me; the great flood-gates of the wonder-world swung open, and in the wild conceits that swayed me to my purpose, two and two there floated into my inm
+    score: 0.5173777341842651
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: the wild and distant seas
+  context: ortentous and mysterious monster roused all my curiosity. Then the wild and distant seas where he rolled his island bulk; the undeliverable, nameless 
+    score: 0.3010181784629822
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: two handfuls of silver
+  context: it? Why did the poor poet of Tennessee, upon suddenly receiving two handfuls of silver, deliberate whether to buy him a coat, which he sadly needed, o
+    score: 0.158641517162323
+     file: sources/melville-moby_chapter_01.txt
+
+
+What two things are wedded for ever?
+
+   answer: meditation and water
+  context: supplied with a metaphysical professor. Yes, as every one knows, meditation and water are wedded for ever. But here is an artist. He desires to paint
+    score: 0.97156822681427
+     file: sources/melville-moby_chapter_01.txt
+
+
+What was Ishael's name?
+
+   answer: WHALING VOYAGE BY ONE ISHMAEL
+  context: Contested Election for the Presidency of the United States. "WHALING VOYAGE BY ONE ISHMAEL. "BLOODY BATTLE IN AFFGHANISTAN." Though I cannot tell why
+    score: 0.2628624737262726
+     file: sources/melville-moby_chapter_01.txt
+
+
+What was one of the motives for performing the part I did?
+
+   answer: they make a point of paying me for my trouble
+  context: because they make a point of paying me for my trouble, whereas they never pay passengers a single penny that I ever heard of. On the contrary, passeng
+    score: 0.31551146507263184
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: overwhelming idea of the great whale himself
+  context: inating judgment. Chief among these motives was the overwhelming idea of the great whale himself. Such a portentous and mysterious monster roused all
+    score: 0.2681316137313843
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: an everlasting itch for things remote
+  context: an everlasting itch for things remote. I love to sail forbidden seas, and land on barbarous coasts. Not ignoring what is good, I am quick to perceive 
+    score: 0.26211658120155334
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisible police officer of the Fates
+  context: after having repeatedly smelt the sea as a merchant sailor, I should now take it into my head to go on a whaling voyage; this the invisible police officer of the Fates
+    score: 0.22101594507694244
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: knowing that it is all right
+  context: hey may thump and punch me about, I have the satisfaction of knowing that it is all right; that everybody else is one way or other served in much the 
+    score: 0.10788217186927795
+     file: sources/melville-moby_chapter_01.txt
+
+
+What was the name of the grand hooded phantom?
+
+   answer: Ishmael
+  context: CHAPTER I. LOOMINGS Call me Ishmael. Some years ago--never mind how long precisely--having little or no money in my purse, and nothing particular to 
+    score: 0.14027659595012665
+     file: sources/melville-moby_chapter_01.txt
+
+
+What was the name of the place where one lodges?
+
+
+What was the title of the song?
+
+   answer: Grand Contested Election for the Presidency of the United States
+  context: must have run something like this: "Grand Contested Election for the Presidency of the United States. "WHALING VOYAGE BY ONE ISHMAEL. "BLOODY BATTLE 
+    score: 0.10890838503837585
+     file: sources/melville-moby_chapter_01.txt
+
+
+What were stage managers set down for in genteel comedies?
+
+
+What will infallibly lead you to water?
+
+   answer: the streets
+  context: coral reefs--commerce surrounds it with her surf. Right and left, the streets take you waterward. Its extreme down-town is the battery, where that nob
+    score: 0.3019486665725708
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: ten to one it carries you down in a dale, and leaves you there by a pool in the stream
+  context: almost any path you please, and ten to one it carries you down in a dale, and leaves you there by a pool in the stream. There is magic in it. Let the 
+    score: 0.1222638338804245
+     file: sources/melville-moby_chapter_01.txt
+
+
+What will not content them but the extremest limit of the land?
+
+   answer: Nothing
+  context: pacing straight for the water, and seemingly bound for a dive. Strange! Nothing will content them but the extremest limit of the land; loitering under
+    score: 0.1652803122997284
+     file: sources/melville-moby_chapter_01.txt
+
+
+What would you travel miles to see if Niagara was a cataract of sand?
+
+
+When does even this wear off?
+
+   answer: in time
+  context: d the Stoics to enable you to grin and bear it. But even this wears off in time. What of it, if some old hunks of a sea-captain orders me to get a br
+    score: 0.7887057065963745
+     file: sources/melville-moby_chapter_01.txt
+
+
+When I find myself growing grim about the mouth, what do I do?
+
+   answer: driving off the spleen, and regulating the circulation
+  context: watery part of the world. It is a way I have of driving off the spleen, and regulating the circulation. Whenever I find myself growing grim about the 
+    score: 0.1361822783946991
+     file: sources/melville-moby_chapter_01.txt
+
+
+Where are you in?
+
+   answer: Manhattoes
+  context: very nearly the same feelings towards the ocean with me. There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by
+    score: 0.270616739988327
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: some high land of lakes
+  context: tract them thither? Once more. Say, you are in the country; in some high land of lakes. Take almost any path you please, and ten to one it carries yo
+    score: 0.2669384777545929
+     file: sources/melville-moby_chapter_01.txt
+
+
+Where are you in the country?
+
+   answer: in some high land of lakes
+  context: ttract them thither? Once more. Say, you are in the country; in some high land of lakes. Take almost any path you please, and ten to one it carries y
+    score: 0.6625432968139648
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: Prairies
+  context: epherd's eye were fixed upon the magic stream before him. Go visit the Prairies in June, when for scores on scores of miles you wade knee-deep among T
+    score: 0.1721874624490738
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: great American desert
+  context: r there be in all that region. Should you ever be athirst in the great American desert, try this experiment, if your caravan happen to be supplied wit
+    score: 0.13704286515712738
+     file: sources/melville-moby_chapter_01.txt
+
+
+Where do the inlanders come from?
+
+   answer: lanes and alleys, streets and avenues
+  context: d--miles of them--leagues. Inlanders all, they come from lanes and alleys, streets and avenues,--north, east, south, and west. Yet here they all unite
+    score: 0.4280441403388977
+     file: sources/melville-moby_chapter_01.txt
+
+
+Where do you wade knee-deep among Tiger-lilies in June?
+
+   answer: Prairies
+  context: epherd's eye were fixed upon the magic stream before him. Go visit the Prairies in June, when for scores on scores of miles you wade knee-deep among T
+    score: 0.7011012434959412
+     file: sources/melville-moby_chapter_01.txt
+
+
+Where is the noble mole washed by waves and cooled by breezes?
+
+   answer: the battery
+  context: ht and left, the streets take you waterward. Its extreme down-town is the battery, where that noble mole is washed by waves, and cooled by breezes, wh
+    score: 0.7833033800125122
+     file: sources/melville-moby_chapter_01.txt
+
+
+Who can better answer than anyone else?
+
+   answer: I will
+  context: there is no one who will speak more respectfully, not to say reverentially, of a broiled fowl than I will. It is out of the idolatrous dotings of the
+    score: 0.21445755660533905
+     file: sources/melville-moby_chapter_01.txt
+
+
+Who do I abandon the glory and distinction of such offices to?
+
+   answer: those who like
+  context: omething of a salt, do I ever go to sea as a Commodore, or a Captain, or a Cook. I abandon the glory and distinction of such offices to those who like
+    score: 0.616643488407135
+     file: sources/melville-moby_chapter_01.txt
+
+
+Who has the constant surveillance of me and secretly influences me?
+
+   answer: invisible police officer of the Fates
+  context: take it into my head to go on a whaling voyage; this the invisible police officer of the Fates, who has the constant surveillance of me, and secretly 
+    score: 0.6521871089935303
+     file: sources/melville-moby_chapter_01.txt
+
+   answer: hypos
+  context: ily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me,
+    score: 0.13787826895713806
+     file: sources/melville-moby_chapter_01.txt
+
